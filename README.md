@@ -1,4 +1,4 @@
-# Real-State-WebScraping
+# Real State WebScraping
 
 Web scraping real state data from "região metropolitana do Recife - Pernambuco" based on popular "OLX" housing ads.
 
