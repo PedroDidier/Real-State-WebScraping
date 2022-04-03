@@ -1,0 +1,1735 @@
+Status,# Rooms,Area (m²),# Car Spots,Condominium Fee (BRL),City,Neighborhood,Price (BRL)
+0,For rent,3.0,86.0,2.0,0.0,Recife,Boa Viagem,4000.0
+1,,,600.0,,0.0,Camaragibe,Aldeia dos Camarás,220000.0
+2,For sale,3.0,97.0,2.0,,Recife,Dois Irmãos,777000.0
+3,For sale,4.0,134.0,3.0,655.0,Jaboatão dos Guararapes,Candeias,940000.0
+4,For sale,4.0,124.0,2.0,0.0,Recife,Graças,1080980.0
+5,For rent,2.0,50.0,,150.0,Jaboatão dos Guararapes,Candeias,750.0
+6,For rent,5.0,227.0,3.0,,Recife,Boa Vista,13000.0
+7,For sale,3.0,100.0,,670.0,Jaboatão dos Guararapes,Piedade,340000.0
+8,For sale,,34.0,,0.0,Olinda,Casa Caiada,199000.0
+9,For sale,2.0,50.0,,435.0,Recife,Boa Viagem,350000.0
+10,For sale,2.0,50.0,,250.0,São Lourenço da Mata,Capibaribe,85000.0
+11,,,300.0,,,Igarassu,Cruz do Rebouças,720000.0
+12,For sale,4.0,380.0,2.0,2000.0,Jaboatão dos Guararapes,Candeias,1500000.0
+13,For sale,4.0,203.0,3.0,1100.0,Recife,Madalena,2099000.0
+14,For sale,4.0,249.0,4.0,,Jaboatão dos Guararapes,Candeias,870000.0
+15,For sale,3.0,66.0,,0.0,Jaboatão dos Guararapes,Candeias,414000.0
+16,For sale,,35.0,,700.0,Recife,Jaqueira,260000.0
+17,For sale,,37.0,,696.0,Jaboatão dos Guararapes,Barra de Jangada,210000.0
+18,For sale,2.0,54.0,,400.0,Recife,Boa Viagem,549000.0
+19,For sale,3.0,70.0,2.0,,Recife,Caxangá,496124.0
+20,For sale,2.0,50.0,,0.0,Igarassu,Agamenon Magalhães,50000.0
+21,For sale,4.0,127.0,2.0,900.0,Recife,Boa Viagem,490000.0
+22,,,215.0,,2875.0,Recife,Ilha do Leite,11000.0
+23,,,4784.0,,0.0,Recife,Santo Amaro,5000000.0
+24,,,360.0,,0.0,Gravatá,Alpes Suiços,60000.0
+25,For sale,4.0,171.0,3.0,1700.0,Recife,Monteiro,1499000.0
+26,For rent,3.0,63.0,,,Recife,Cordeiro,2500.0
+27,For sale,4.0,10.0,4.0,0.0,Recife,Casa Forte,1430000.0
+28,For sale,2.0,53.0,,0.0,Recife,Imbiribeira,269000.0
+29,For sale,,40.0,,,Jaboatão dos Guararapes,Barra de Jangada,270000.0
+30,For rent,2.0,60.0,,400.0,Recife,Boa Viagem,950.0
+31,For sale,3.0,123.0,3.0,1100.0,Recife,Casa Amarela,790000.0
+32,For rent,5.0,508.0,5.0,,Recife,Santo Amaro,10000.0
+33,For sale,3.0,192.0,3.0,1500.0,Recife,Poço,1549900.0
+34,For rent,5.0,345.0,5.0,,Jaboatão dos Guararapes,Piedade,12000.0
+35,For sale,,48.0,,996.0,Recife,Boa Viagem,249999.0
+36,For sale,4.0,163.0,2.0,1470.0,Recife,Boa Viagem,650000.0
+37,For sale,3.0,90.0,2.0,0.0,Recife,Várzea,240000.0
+38,For sale,3.0,107.0,,600.0,Recife,Campo Grande,299900.0
+39,For sale,2.0,138.0,2.0,1050.0,Recife,Boa Viagem,680000.0
+40,For rent,4.0,145.0,2.0,1000.0,Recife,Aflitos,3500.0
+41,For sale,,,,,Recife,Boa Viagem,349000.0
+42,For sale,4.0,247.0,3.0,1400.0,Recife,São José,2100000.0
+43,,,22.0,,0.0,Recife,Espinheiro,1550.0
+44,For sale,3.0,167.0,2.0,1100.0,Recife,Boa Viagem,1150000.0
+45,For sale,3.0,105.0,,160.0,Olinda,Bairro Novo,230000.0
+46,For sale,3.0,105.0,,160.0,Olinda,Bairro Novo,230000.0
+47,For sale,4.0,110.0,4.0,1090.0,Gravatá,Santana,260000.0
+48,For sale,3.0,160.0,4.0,306.0,Gravatá,Alpes Suiços,498000.0
+49,For sale,2.0,72.0,,,Santa Cruz do Capibaribe,Bela Vista,90000.0
+50,,,360.0,,,Jaboatão dos Guararapes,Prazeres,
+51,For sale,2.0,100.0,,120.0,Recife,San Martin,290000.0
+52,For sale,3.0,62.0,,0.0,Jaboatão dos Guararapes,Candeias,65000.0
+53,For sale,2.0,45.0,,165.0,Paulista,Janga,120000.0
+54,For sale,2.0,67.0,,0.0,Caruaru,Maurício de Nassau,300000.0
+55,For rent,2.0,,,,Camaragibe,Santa Mônica,700.0
+56,For sale,3.0,67.0,,1.0,Recife,Torre,455000.0
+57,,,40.0,,150.0,Recife,Iputinga,150000.0
+58,For sale,3.0,83.0,2.0,550.0,Recife,Boa Viagem,700000.0
+59,For sale,3.0,130.0,5.0,,Jaboatão dos Guararapes,Piedade,450000.0
+60,For sale,3.0,71.0,,1.0,Recife,Várzea,392800.0
+61,For sale,3.0,57.0,,,Recife,Encruzilhada,309999.0
+62,For sale,5.0,330.0,4.0,400.0,Cabo de Santo Agostinho,Garapu,290000.0
+63,,,20.0,,470.0,Recife,Boa Viagem,130000.0
+64,For sale,4.0,234.0,3.0,1460.0,Recife,Monteiro,1790000.0
+65,For sale,3.0,98.0,2.0,1150.0,Recife,Madalena,530000.0
+66,For sale,4.0,210.0,3.0,0.0,Paulista,Nossa Senhora do Ó,700000.0
+67,For sale,,30.0,,0.0,Recife,Boa Viagem,235000.0
+68,For sale,3.0,64.0,,420.0,Recife,Barro,345000.0
+69,For rent,4.0,184.0,3.0,0.0,Recife,Boa Viagem,12000.0
+70,For sale,,35.0,,527.0,Recife,Madalena,249000.0
+71,For sale,4.0,300.0,4.0,0.0,Camaragibe,Aldeia dos Camarás,780000.0
+72,For rent,3.0,98.0,,0.0,Olinda,Bairro Novo,1400.0
+73,For sale,3.0,100.0,2.0,1200.0,Recife,Madalena,700000.0
+74,For sale,3.0,62.0,,348.0,Recife,Barro,255000.0
+75,For rent,,32.0,,,Recife,Casa Forte,2000.0
+76,For rent,2.0,52.0,,,Recife,Ilha do Leite,3300.0
+77,For sale,3.0,70.0,,400.0,Olinda,Casa Caiada,220000.0
+78,For sale,3.0,71.0,,,Recife,Várzea,409244.0
+79,For sale,3.0,82.0,2.0,,Recife,Torrões,380000.0
+80,For sale,4.0,77.0,,20.0,Paulista,Janga,100000.0
+81,For sale,5.0,312.0,4.0,2500.0,Recife,Jaqueira,4400000.0
+82,For sale,4.0,401.0,5.0,2500.0,Recife,Boa Viagem,7900000.0
+83,For sale,2.0,60.0,,230.0,Jaboatão dos Guararapes,Candeias,160000.0
+84,For sale,3.0,66.0,,0.0,Jaboatão dos Guararapes,Candeias,440000.0
+85,,,,,0.0,Jaboatão dos Guararapes,Candeias,1000000.0
+86,For sale,3.0,121.0,2.0,,Recife,Boa Viagem,650000.0
+87,For sale,3.0,126.0,,0.0,Recife,Graças,400000.0
+88,For sale,4.0,180.0,2.0,1400.0,Recife,Boa Viagem,1300000.0
+89,,,580.0,,0.0,Recife,Santo Amaro,1400000.0
+90,For sale,4.0,162.0,3.0,920.0,Recife,Boa Viagem,1460000.0
+91,For sale,5.0,225.0,2.0,1737.0,Olinda,Casa Caiada,300000.0
+92,,,330.0,,0.0,Recife,Imbiribeira,14000.0
+93,For sale,2.0,43.0,,500.0,Recife,Torre,340000.0
+94,For sale,3.0,79.0,,650.0,Recife,Madalena,375000.0
+95,For rent,2.0,47.0,,,Recife,Boa Viagem,1600.0
+96,For sale,3.0,68.0,,560.0,Recife,Boa Viagem,360000.0
+97,For sale,5.0,300.0,,0.0,Olinda,Bairro Novo,690000.0
+98,For sale,3.0,69.0,,180.0,Olinda,Jardim Atlântico,280000.0
+99,For sale,3.0,82.0,2.0,700.0,Recife,Boa Viagem,700000.0
+100,For sale,2.0,46.0,,,Jaboatão dos Guararapes,Dois Carneiros,150000.0
+101,For sale,4.0,10.0,5.0,0.0,Recife,Encruzilhada,2100000.0
+102,For sale,3.0,96.0,,900.0,Recife,Boa Viagem,470000.0
+103,For sale,3.0,105.0,2.0,900.0,Recife,Boa Viagem,800000.0
+104,For sale,4.0,139.0,2.0,0.0,Recife,Monteiro,1458000.0
+105,For sale,2.0,60.0,,0.0,Recife,Zumbi,70000.0
+106,For sale,2.0,55.0,,,Recife,Várzea,289782.0
+107,For sale,3.0,78.0,,660.0,Recife,Casa Forte,360000.0
+108,For sale,2.0,44.0,,120.0,Gravatá,Nossa Senhora das Graças,180000.0
+109,For sale,2.0,58.0,,480.0,Recife,Imbiribeira,280000.0
+110,For sale,4.0,300.0,3.0,2400.0,Recife,Pina,3500000.0
+111,For rent,,40.0,,0.0,Jaboatão dos Guararapes,Piedade,1600.0
+112,For sale,4.0,171.0,3.0,1000.0,Recife,Parnamirim,1700000.0
+113,For sale,4.0,150.0,5.0,1250.0,Jaboatão dos Guararapes,Piedade,920000.0
+114,For sale,3.0,230.0,3.0,0.0,Paulista,Maria Farinha,680000.0
+115,For sale,2.0,60.0,,0.0,Igarassu,Monjope,139000.0
+116,For sale,2.0,49.0,,0.0,Olinda,Peixinhos,200000.0
+117,For sale,2.0,48.0,,0.0,Abreu e Lima,Planalto,126000.0
+118,For sale,2.0,50.0,,0.0,Igarassu,Centro,150000.0
+119,For sale,2.0,60.0,,0.0,Igarassu,Cruz do Rebouças,150000.0
+120,For sale,3.0,78.0,,840.0,Recife,Prado,260000.0
+121,For sale,2.0,10.0,,0.0,Olinda,Fragoso,180000.0
+122,For rent,3.0,72.0,,200.0,Olinda,Jardim Atlântico,900.0
+123,For rent,,,,,Olinda,Bairro Novo,1499.0
+124,For sale,3.0,113.0,2.0,1125.0,Cabo de Santo Agostinho,Paiva,970000.0
+125,,,442.0,,800.0,Cabo de Santo Agostinho,Paiva,850000.0
+126,For sale,4.0,167.0,2.0,0.0,Recife,Boa Viagem,500000.0
+127,For sale,4.0,195.0,2.0,1400.0,Recife,Boa Viagem,1200000.0
+128,For sale,3.0,220.0,3.0,1930.0,Recife,Boa Viagem,2700000.0
+129,,,39.0,,0.0,Recife,Pina,5000.0
+130,For sale,3.0,85.0,2.0,950.0,Recife,Casa Amarela,534000.0
+131,For sale,3.0,65.0,,450.0,Jaboatão dos Guararapes,Candeias,320000.0
+132,For sale,2.0,47.0,,465.0,Recife,Boa Viagem,350000.0
+133,,,400.0,,0.0,Recife,Imbiribeira,6000.0
+134,,,5000.0,,0.0,Recife,Ibura,90000.0
+135,For sale,3.0,65.0,5.0,0.0,Recife,Boa Viagem,480000.0
+136,,,400.0,,0.0,Recife,Imbiribeira,6000.0
+137,,,5000.0,,0.0,Recife,Ibura,90000.0
+138,For sale,3.0,65.0,5.0,0.0,Recife,Boa Viagem,480000.0
+139,For rent,3.0,61.0,,0.0,Recife,Casa Amarela,2500.0
+140,For sale,4.0,291.0,3.0,0.0,Recife,Boa Viagem,700000.0
+141,For rent,4.0,183.0,3.0,0.0,Cabo de Santo Agostinho,Paiva,8990.0
+142,For sale,4.0,365.0,4.0,0.0,Cabo de Santo Agostinho,Paiva,2300000.0
+143,For sale,2.0,45.0,,,Recife,Encruzilhada,289159.0
+144,For sale,4.0,690.0,5.0,,Jaboatão dos Guararapes,Curado,2800000.0
+145,,,38.0,,444.0,Recife,Espinheiro,300000.0
+146,For sale,3.0,180.0,2.0,,Recife,Monteiro,1750000.0
+147,For sale,3.0,66.0,,0.0,Jaboatão dos Guararapes,Barra de Jangada,350000.0
+148,For rent,3.0,80.0,2.0,0.0,Recife,Boa Viagem,1600.0
+149,,,780.0,,0.0,Recife,Passarinho,2500000.0
+150,For sale,4.0,189.0,2.0,1300.0,Recife,Aflitos,590000.0
+151,For sale,4.0,276.0,2.0,0.0,Recife,Boa Viagem,1200000.0
+152,For sale,4.0,136.0,2.0,0.0,Recife,Boa Viagem,1180000.0
+153,For sale,4.0,250.0,2.0,720.0,Gravatá,Gravatá Centro,1280000.0
+154,For sale,2.0,75.0,,,Paulista,Nossa Senhora da Conceição,170000.0
+155,For sale,4.0,223.0,3.0,,Recife,Madalena,950000.0
+156,For sale,2.0,45.0,,0.0,Jaboatão dos Guararapes,Piedade,210000.0
+157,For sale,4.0,136.0,2.0,1100.0,Recife,Espinheiro,1020000.0
+158,For rent,3.0,80.0,2.0,0.0,Recife,Boa Viagem,6200.0
+159,For sale,,32.0,,294.0,Ipojuca,Nossa Senhora do Ó,350000.0
+160,For sale,,,,,Recife,Madalena,299500.0
+161,For sale,,35.0,,0.0,Recife,Tamarineira,300000.0
+162,For sale,4.0,145.0,2.0,0.0,Recife,Boa Viagem,650000.0
+163,For sale,4.0,200.0,3.0,1900.0,Recife,Monteiro,980000.0
+164,For sale,4.0,221.0,2.0,0.0,Recife,Boa Viagem,1650000.0
+165,For sale,3.0,180.0,2.0,0.0,Olinda,Jardim Atlântico,750000.0
+166,For sale,5.0,200.0,,0.0,Olinda,Ouro Preto,495000.0
+167,For sale,3.0,67.0,,560.0,Recife,Espinheiro,531186.0
+168,,,130.0,,,Recife,Boa Vista,1200000.0
+169,,,46.0,,0.0,Recife,Boa Viagem,4800.0
+170,For sale,3.0,86.0,2.0,0.0,Recife,Boa Viagem,837219.0
+171,For sale,3.0,80.0,2.0,500.0,Recife,Boa Viagem,650000.0
+172,For sale,3.0,85.0,2.0,,Recife,Rosarinho,529925.0
+173,For sale,3.0,110.0,,650.0,Recife,Santo Amaro,390000.0
+174,For sale,3.0,84.0,,0.0,Recife,Torre,550000.0
+175,For sale,4.0,,,,Olinda,Casa Caiada,759999.0
+176,For sale,3.0,85.0,2.0,600.0,Recife,Boa Viagem,525000.0
+177,For sale,4.0,132.0,2.0,900.0,Recife,Boa Viagem,1390000.0
+178,For sale,4.0,135.0,2.0,1620.0,Recife,Boa Viagem,1040000.0
+179,For sale,4.0,112.0,2.0,0.0,Recife,Torre,800000.0
+180,For sale,4.0,223.0,5.0,1900.0,Recife,Rosarinho,1300000.0
+181,For sale,2.0,120.0,,,Vitória de Santo Antão,Matriz,140000.0
+182,,,1800.0,,0.0,Jaboatão dos Guararapes,Piedade,25000.0
+183,,,41.0,,602.0,Recife,Parnamirim,270000.0
+184,For sale,3.0,115.0,,180.0,Jaboatão dos Guararapes,Piedade,300000.0
+185,For rent,,45.0,,0.0,Recife,Boa Viagem,2500.0
+186,For sale,2.0,50.0,,0.0,Recife,Iputinga,263126.0
+187,For sale,4.0,218.0,3.0,0.0,Recife,Pina,3000000.0
+188,For rent,3.0,150.0,2.0,0.0,Jaboatão dos Guararapes,Candeias,1400.0
+189,,,151.0,,2050.0,Recife,Boa Viagem,7500.0
+190,For sale,3.0,96.0,,970.0,Recife,Aflitos,350000.0
+191,For sale,4.0,345.0,5.0,,Camaragibe,Aldeia dos Camarás,850000.0
+192,For rent,,51.0,2.0,0.0,Recife,Santana,2200.0
+193,For sale,4.0,253.0,3.0,2780.0,Cabo de Santo Agostinho,Paiva,2700000.0
+194,For rent,,32.0,,0.0,Recife,Boa Viagem,145.0
+195,For sale,2.0,57.0,,0.0,Igarassu,Cruz do Rebouças,150000.0
+196,For sale,4.0,160.0,2.0,0.0,Olinda,Bairro Novo,450000.0
+197,For sale,2.0,,,,Recife,Torre,289000.0
+198,For sale,4.0,,,,Gravatá,Cruzeiro,340000.0
+199,For sale,2.0,46.0,,0.0,Recife,Torreão,287900.0
+200,For sale,2.0,47.0,,,Igarassu,Agamenon Magalhães,120000.0
+201,For sale,2.0,40.0,,0.0,Recife,Boa Viagem,220000.0
+202,For sale,2.0,49.0,,,Recife,Casa Amarela,369113.0
+203,,,15.0,,0.0,Olinda,Casa Caiada,650.0
+204,For sale,4.0,162.0,3.0,,Recife,Boa Viagem,1150000.0
+205,For sale,4.0,137.0,2.0,,Recife,Boa Viagem,980000.0
+206,For rent,3.0,105.0,,,Recife,Boa Viagem,3200.0
+207,For sale,2.0,,,,Paulista,Maranguape I,180000.0
+208,,,90.0,,0.0,Recife,Afogados,2500.0
+209,For rent,,45.0,,0.0,Recife,Santo Amaro,900.0
+210,For sale,4.0,155.0,,14.0,Recife,Boa Viagem,2400000.0
+211,For sale,3.0,480.0,5.0,0.0,Recife,Água Fria,600000.0
+212,For rent,,28.0,,0.0,Recife,Pina,3500.0
+213,For sale,3.0,98.0,,750.0,Recife,Boa Viagem,400000.0
+214,For sale,3.0,80.0,,0.0,Recife,Campo Grande,270000.0
+215,For sale,5.0,74.0,,,Recife,Rosarinho,200000.0
+216,For sale,4.0,437.0,2.0,,Recife,Hipódromo,600000.0
+217,For rent,3.0,247.0,3.0,0.0,Recife,São José,9900.0
+218,For sale,4.0,210.0,3.0,0.0,Recife,Parnamirim,1750000.0
+219,For sale,2.0,56.0,,,Recife,Espinheiro,483000.0
+220,For sale,3.0,115.0,,1200.0,Recife,Boa Viagem,460000.0
+221,For sale,4.0,150.0,2.0,640.0,Gravatá,Nossa Senhora das Graças,530000.0
+222,,,800.0,,,Recife,Prado,9000.0
+223,For sale,,32.0,,800.0,Jaboatão dos Guararapes,Piedade,180000.0
+224,For sale,4.0,165.0,2.0,1000.0,Jaboatão dos Guararapes,Piedade,1180000.0
+225,,,33.0,,430.0,Recife,Boa Vista,250000.0
+226,,,33.0,,430.0,Recife,Boa Vista,250000.0
+227,,,151.0,,2049.0,Recife,Boa Viagem,7500.0
+228,For sale,2.0,200.0,2.0,,Camaragibe,Tabatinga,100000.0
+229,,,35.0,,600.0,Recife,Espinheiro,1300.0
+230,For sale,4.0,225.0,3.0,1000.0,Recife,Espinheiro,1550000.0
+231,,,300.0,,0.0,Recife,Afogados,300000.0
+232,For sale,3.0,125.0,2.0,400.0,Caruaru,Maurício de Nassau,350000.0
+233,For sale,3.0,185.0,2.0,0.0,Caruaru,Pinheirópolis,470000.0
+234,For sale,3.0,124.0,2.0,0.0,Caruaru,Manoel Bezerra Lopes,380000.0
+235,For sale,2.0,100.0,,180.0,Jaboatão dos Guararapes,Candeias,30000.0
+236,For rent,,27.0,,0.0,Jaboatão dos Guararapes,Barra de Jangada,2100.0
+237,,,92.0,,1100.0,Recife,Madalena,300000.0
+238,,,10.0,,200.0,Recife,Boa Viagem,1400.0
+239,For sale,,28.0,,0.0,Recife,Boa Viagem,220000.0
+240,,,700.0,,,Recife,Santo Amaro,7000.0
+241,,,42.0,,,Recife,Espinheiro,3650.0
+242,For rent,2.0,60.0,,0.0,Recife,Imbiribeira,1150.0
+243,For rent,3.0,80.0,2.0,0.0,Recife,Espinheiro,2600.0
+244,For rent,,36.0,,0.0,Recife,Pina,1750.0
+245,For sale,2.0,54.0,,433.0,Recife,Espinheiro,385000.0
+246,For sale,3.0,97.0,2.0,0.0,Cabo de Santo Agostinho,Paiva,714000.0
+247,For sale,2.0,1.0,,0.0,Paulista,Tabajara,120000.0
+248,For sale,4.0,130.0,3.0,0.0,Gravatá,Nossa Senhora das Graças,210000.0
+249,For sale,2.0,56.0,,,Jaboatão dos Guararapes,Candeias,50000.0
+250,For sale,2.0,49.0,,0.0,Recife,Boa Viagem,395838.0
+251,For sale,2.0,54.0,,650.0,Recife,Encruzilhada,360000.0
+252,For sale,3.0,105.0,2.0,1000.0,Recife,Boa Viagem,660000.0
+253,For sale,3.0,61.0,,0.0,Recife,Boa Vista,395000.0
+254,For sale,3.0,120.0,2.0,850.0,Recife,Boa Viagem,850000.0
+255,For sale,4.0,160.0,,906.0,Recife,Boa Viagem,475000.0
+256,,,1736.0,,5607.0,Jaboatão dos Guararapes,Guararapes,39928.0
+257,,,250.0,,,Gravatá,COHAB-ll,70000.0
+258,For sale,2.0,65.0,,407.0,Recife,Imbiribeira,390000.0
+259,For sale,4.0,218.0,3.0,0.0,Recife,Boa Viagem,3050000.0
+260,For sale,3.0,160.0,2.0,1500.0,Recife,Boa Viagem,1300000.0
+261,For sale,3.0,247.0,,,Paulista,Janga,1100000.0
+262,For sale,3.0,81.0,2.0,,Recife,Rosarinho,630115.0
+263,For sale,4.0,150.0,2.0,0.0,Recife,Ipsep,520000.0
+264,For rent,2.0,,,,Paulista,Jaguarana,350.0
+265,For sale,3.0,71.0,,,Recife,Várzea,378350.0
+266,For sale,4.0,135.0,3.0,420.0,Jaboatão dos Guararapes,Piedade,350000.0
+267,For sale,3.0,81.0,,470.0,Recife,Campo Grande,250000.0
+268,,,73.0,,0.0,Recife,Ilha do Leite,3662.0
+269,For sale,2.0,55.0,,,Recife,Várzea,378350.0
+270,For sale,5.0,250.0,3.0,1700.0,Jaboatão dos Guararapes,Piedade,900000.0
+271,For sale,4.0,122.0,2.0,,Recife,Parnamirim,1023350.0
+272,For sale,3.0,66.0,,,Jaboatão dos Guararapes,Candeias,429350.0
+273,For sale,4.0,123.0,2.0,,Recife,Madalena,947350.0
+274,For sale,3.0,88.0,2.0,740.0,Recife,Boa Viagem,700000.0
+275,For sale,3.0,170.0,2.0,1000.0,Jaboatão dos Guararapes,Candeias,570000.0
+276,For sale,3.0,88.0,2.0,800.0,Recife,Madalena,590000.0
+277,For sale,4.0,171.0,3.0,1650.0,Recife,Monteiro,1700000.0
+278,For sale,4.0,138.0,2.0,,Recife,Boa Viagem,1349350.0
+279,For sale,,35.0,,,Recife,São José,324350.0
+280,For sale,3.0,133.0,,0.0,Recife,Boa Viagem,500000.0
+281,For sale,2.0,100.0,2.0,0.0,Recife,Pina,380000.0
+282,For sale,3.0,93.0,2.0,800.0,Recife,Boa Viagem,1195000.0
+283,,,850.0,,0.0,Recife,Cordeiro,700000.0
+284,For sale,2.0,55.0,,0.0,Paulista,Maria Farinha,140000.0
+285,For sale,3.0,67.0,,550.0,Recife,Campo Grande,270000.0
+286,For sale,4.0,208.0,2.0,1250.0,Recife,Graças,630000.0
+287,For sale,4.0,135.0,2.0,,Jaboatão dos Guararapes,Candeias,550000.0
+288,For sale,4.0,132.0,,775.0,Recife,Boa Viagem,1390000.0
+289,For sale,,46.0,,315.0,Recife,Boa Vista,130000.0
+290,For sale,3.0,140.0,3.0,0.0,Recife,Madalena,800000.0
+291,For rent,,24.0,,0.0,Recife,Parnamirim,1700.0
+292,For sale,4.0,270.0,2.0,1500.0,Recife,Boa Viagem,1290000.0
+293,For sale,2.0,105.0,2.0,780.0,Jaboatão dos Guararapes,Piedade,550000.0
+294,For sale,3.0,75.0,,260.0,Jaboatão dos Guararapes,Piedade,200000.0
+295,For sale,2.0,0.0,,0.0,Recife,Dois Unidos,80000.0
+296,For sale,3.0,100.0,3.0,0.0,Recife,Jardim São Paulo,330000.0
+297,For sale,4.0,360.0,4.0,0.0,Recife,Boa Viagem,6500000.0
+298,For sale,4.0,134.0,2.0,0.0,Recife,Poço,849999.0
+299,,,450.0,,0.0,Recife,Casa Forte,20000.0
+300,For sale,3.0,120.0,,0.0,Recife,Santo Amaro,245000.0
+301,For sale,2.0,62.0,,500.0,Recife,Madalena,360000.0
+302,For rent,3.0,81.0,2.0,468.0,Recife,Boa Viagem,3800.0
+303,For sale,3.0,93.0,,650.0,Recife,Graças,310000.0
+304,For sale,4.0,208.0,3.0,933.0,Recife,Parnamirim,2100000.0
+305,For rent,3.0,130.0,,0.0,Recife,Madalena,1350.0
+306,For sale,4.0,120.0,2.0,0.0,Recife,Jaqueira,1459000.0
+307,For sale,3.0,64.0,,,Recife,Torreão,450000.0
+308,For sale,4.0,150.0,3.0,0.0,Recife,Casa Forte,920000.0
+309,For sale,4.0,238.0,4.0,2200.0,Recife,Poço,1400000.0
+310,,,49.0,,350.0,Caruaru,Maurício de Nassau,228151.0
+311,,,195.0,,0.0,Recife,Casa Forte,11700.0
+312,For sale,3.0,70.0,,0.0,Olinda,Fragoso,146000.0
+313,,,698799.0,,0.0,Jaboatão dos Guararapes,Marcos Freire,20000000.0
+314,For sale,2.0,45.0,,0.0,Recife,Boa Vista,346500.0
+315,For sale,3.0,87.0,2.0,0.0,Recife,Poço,790000.0
+316,For sale,3.0,112.0,,,Paulista,Janga,400000.0
+317,For sale,3.0,124.0,3.0,,Recife,Boa Viagem,1330000.0
+318,For sale,2.0,70.0,,0.0,Recife,Pina,390000.0
+319,For sale,3.0,95.0,2.0,,Recife,Boa Viagem,1099159.0
+320,For sale,2.0,60.0,,550.0,Recife,Boa Viagem,360000.0
+321,,,247.0,,0.0,Recife,Apipucos,1300000.0
+322,For sale,2.0,59.0,,640.0,Olinda,Casa Caiada,360000.0
+323,For rent,,35.0,,0.0,Recife,Boa Viagem,2200.0
+324,For sale,2.0,50.0,,560.0,Recife,Madalena,380000.0
+325,For sale,3.0,68.0,2.0,0.0,Recife,Boa Vista,523000.0
+326,For sale,4.0,280.0,3.0,2000.0,Recife,Rosarinho,1500000.0
+327,For sale,3.0,59.0,,0.0,Recife,Madalena,359999.0
+328,For sale,3.0,57.0,,300.0,Recife,Encruzilhada,340000.0
+329,For sale,2.0,57.0,,400.0,Recife,Casa Amarela,321000.0
+330,For sale,4.0,198.0,3.0,1200.0,Recife,Torre,1400000.0
+331,,,92.0,,,Caruaru,Maurício de Nassau,3300.0
+332,For sale,3.0,95.0,,703.0,Recife,Madalena,280000.0
+333,For sale,2.0,51.0,2.0,,Recife,Tamarineira,443000.0
+334,For sale,3.0,75.0,,415.0,Olinda,Casa Caiada,240000.0
+335,For sale,5.0,300.0,3.0,,Jaboatão dos Guararapes,Candeias,895000.0
+336,For sale,4.0,201.0,3.0,1550.0,Recife,Aflitos,1105000.0
+337,For sale,4.0,180.0,2.0,1200.0,Recife,Boa Vista,500000.0
+338,For sale,4.0,250.0,3.0,2360.0,Recife,Boa Viagem,1300000.0
+339,For sale,2.0,45.0,,290.0,Jaboatão dos Guararapes,Candeias,195000.0
+340,For sale,3.0,96.0,2.0,,Jaboatão dos Guararapes,Candeias,799499.0
+341,For sale,4.0,190.0,3.0,1000.0,Recife,Torreão,1350000.0
+342,For sale,2.0,63.0,,565.0,Jaboatão dos Guararapes,Piedade,400000.0
+343,,,2600.0,,0.0,Jaboatão dos Guararapes,Prazeres,52000.0
+344,For sale,2.0,53.0,,,Recife,Várzea,288900.0
+345,For sale,4.0,172.0,3.0,0.0,Jaboatão dos Guararapes,Piedade,1200000.0
+346,For sale,3.0,145.0,,1000.0,Recife,Tamarineira,760000.0
+347,For sale,3.0,75.0,,730.0,Recife,Casa Forte,410000.0
+348,For rent,3.0,85.0,,0.0,Olinda,Jardim Atlântico,1600.0
+349,For sale,3.0,116.0,2.0,550.0,Olinda,Casa Caiada,650000.0
+350,For sale,,32.0,,384.0,Recife,Boa Viagem,295000.0
+351,For sale,3.0,129.0,,1000.0,Recife,Casa Amarela,780000.0
+352,For sale,2.0,60.0,,0.0,Recife,Casa Amarela,320000.0
+353,For sale,4.0,260.0,3.0,1650.0,Recife,Santana,1300000.0
+354,For rent,4.0,10.0,4.0,0.0,Olinda,Casa Caiada,5000.0
+355,For rent,2.0,59.0,,0.0,Recife,Santo Amaro,2300.0
+356,For sale,4.0,160.0,,,Caruaru,Maurício de Nassau,500000.0
+357,For sale,3.0,100.0,2.0,600.0,Recife,Boa Viagem,539000.0
+358,For sale,,30.0,,,Jaboatão dos Guararapes,Piedade,285199.0
+359,For sale,3.0,120.0,,822.0,Recife,Boa Viagem,350000.0
+360,For rent,2.0,71.0,,0.0,Recife,Boa Viagem,3800.0
+361,For sale,3.0,62.0,2.0,0.0,Igarassu,Saramandaia,30000.0
+362,For sale,3.0,84.0,,,Recife,Rosarinho,880000.0
+363,For sale,3.0,86.0,2.0,,Recife,Boa Viagem,595000.0
+364,For sale,2.0,52.0,,400.0,Jaboatão dos Guararapes,Piedade,270000.0
+365,For sale,3.0,80.0,,,Recife,Prado,470000.0
+366,,,92.0,,800.0,Caruaru,Maurício de Nassau,480000.0
+367,For sale,3.0,64.0,,,Paulista,Artur Lundgren I,180000.0
+368,For sale,3.0,84.0,2.0,0.0,Recife,Rosarinho,842000.0
+369,For sale,3.0,67.0,,450.0,Jaboatão dos Guararapes,Piedade,360000.0
+370,For sale,4.0,245.0,2.0,1900.0,Jaboatão dos Guararapes,Piedade,1850000.0
+371,For sale,2.0,56.0,,0.0,Recife,Casa Amarela,305000.0
+372,For sale,3.0,70.0,,0.0,Recife,Afogados,310000.0
+373,For sale,4.0,310.0,4.0,3000.0,Recife,Jaqueira,1850000.0
+374,For sale,3.0,75.0,,400.0,Olinda,Casa Caiada,235000.0
+375,,,250.0,,,Caruaru,Indianópolis,120000.0
+376,,,1960.0,,,Cabo de Santo Agostinho,Distrito Industrial Diper,35280.0
+377,,,1100.0,,,Paulista,Nobre,12100.0
+378,For rent,2.0,,,,Caruaru,Boa Vista,900.0
+379,For sale,,36.0,,,Jaboatão dos Guararapes,Candeias,205199.0
+380,For sale,4.0,268.0,4.0,1.0,Recife,Pina,3543144.0
+381,For sale,3.0,89.0,2.0,,Recife,Rosarinho,735600.0
+382,For sale,3.0,126.0,2.0,880.0,Recife,Pina,1260000.0
+383,,,38.0,,0.0,Recife,Encruzilhada,1300.0
+384,For sale,3.0,79.0,,,Recife,Aflitos,455000.0
+385,For rent,,25.0,,0.0,Recife,Encruzilhada,700.0
+386,For sale,3.0,95.0,2.0,740.0,Recife,Espinheiro,650000.0
+387,,,261.0,,0.0,Recife,Ilha do Leite,695000.0
+388,For sale,2.0,51.0,,250.0,Recife,Várzea,280000.0
+389,For sale,3.0,61.0,,300.0,Recife,Zumbi,320000.0
+390,For sale,4.0,174.0,2.0,1100.0,Recife,Boa Viagem,800000.0
+391,For sale,4.0,360.0,3.0,0.0,Recife,Boa Viagem,850000.0
+392,For rent,3.0,60.0,,150.0,Recife,Santo Amaro,700.0
+393,,,44.0,,680.0,Recife,Graças,480000.0
+394,For sale,4.0,196.0,2.0,,Jaboatão dos Guararapes,Piedade,1200000.0
+395,For sale,3.0,95.0,2.0,740.0,Recife,Espinheiro,650000.0
+396,,,261.0,,0.0,Recife,Ilha do Leite,695000.0
+397,For sale,2.0,51.0,,250.0,Recife,Várzea,280000.0
+398,For sale,3.0,61.0,,300.0,Recife,Zumbi,320000.0
+399,For sale,4.0,174.0,2.0,1100.0,Recife,Boa Viagem,800000.0
+400,For sale,4.0,360.0,3.0,0.0,Recife,Boa Viagem,850000.0
+401,For rent,3.0,60.0,,150.0,Recife,Santo Amaro,700.0
+402,,,44.0,,680.0,Recife,Graças,480000.0
+403,For sale,4.0,196.0,2.0,,Jaboatão dos Guararapes,Piedade,1200000.0
+404,,,215.0,,,Recife,Graças,950000.0
+405,,4.0,,,,Gravatá,Santana,3000.0
+406,For sale,3.0,97.0,2.0,,Recife,Boa Viagem,859108.0
+407,For sale,2.0,42.0,,,Paulista,Jardim Maranguape,122000.0
+408,For sale,2.0,92.0,,100.0,Paulista,Janga,135000.0
+409,For sale,3.0,105.0,2.0,750.0,Recife,Casa Amarela,871500.0
+410,For sale,2.0,50.0,,,Paulista,Maria Farinha,170000.0
+411,For sale,2.0,58.0,,340.0,Recife,Prado,280000.0
+412,For sale,3.0,80.0,,,Recife,Tejipió,290000.0
+413,For sale,3.0,95.0,2.0,,Caruaru,Nova Caruaru,659000.0
+414,For sale,4.0,205.0,2.0,1748.0,Recife,Boa Viagem,1300000.0
+415,For sale,3.0,86.0,2.0,640.0,Recife,Boa Viagem,550000.0
+416,For sale,2.0,54.0,,0.0,Paulista,Pau Amarelo,
+417,For sale,3.0,80.0,2.0,,Recife,Boa Viagem,519166.0
+418,For sale,4.0,147.0,3.0,0.0,Recife,Poço,1026100.0
+419,For sale,2.0,52.0,,0.0,Recife,Boa Vista,372000.0
+420,For sale,,32.0,,371.0,Recife,Parnamirim,399000.0
+421,For sale,,32.0,,0.0,Recife,Boa Viagem,250000.0
+422,For sale,,36.0,,0.0,Recife,Poço,335200.0
+423,For sale,,42.0,,0.0,Recife,Boa Viagem,386700.0
+424,For sale,2.0,50.0,,0.0,Recife,Torre,330000.0
+425,For sale,3.0,81.0,2.0,0.0,Recife,Pina,705470.0
+426,For sale,3.0,71.0,,0.0,Recife,Pina,455000.0
+427,For sale,3.0,130.0,,0.0,Recife,Boa Viagem,740000.0
+428,For sale,,23.0,,0.0,Recife,Boa Viagem,260000.0
+429,For sale,,33.0,,0.0,Recife,Boa Viagem,562500.0
+430,For sale,3.0,140.0,2.0,700.0,Olinda,Casa Caiada,620000.0
+431,For sale,4.0,161.0,2.0,0.0,Cabo de Santo Agostinho,Paiva,2025000.0
+432,For sale,2.0,65.0,,555.0,Recife,Boa Viagem,350000.0
+433,For sale,2.0,46.0,,0.0,Recife,Boa Viagem,335700.0
+434,For sale,4.0,135.0,2.0,0.0,Recife,Boa Viagem,1463000.0
+435,For sale,3.0,115.0,2.0,0.0,Recife,Boa Viagem,700000.0
+436,For sale,3.0,145.0,2.0,0.0,Recife,Boa Viagem,740000.0
+437,For sale,4.0,146.0,2.0,0.0,Recife,Boa Viagem,1200000.0
+438,For sale,4.0,135.0,2.0,800.0,Olinda,Casa Caiada,935000.0
+439,For sale,4.0,135.0,2.0,800.0,Olinda,Casa Caiada,935000.0
+440,For sale,5.0,503.0,,0.0,Cabo de Santo Agostinho,Paiva,5500000.0
+441,For sale,3.0,96.0,2.0,0.0,Recife,Dois Irmãos,870000.0
+442,For sale,2.0,46.0,,0.0,Recife,Dois Irmãos,285000.0
+443,For sale,2.0,53.0,,0.0,Recife,Imbiribeira,299980.0
+444,For sale,3.0,89.0,2.0,0.0,Recife,Rosarinho,736000.0
+445,For sale,4.0,126.0,2.0,0.0,Recife,Pina,1257400.0
+446,For sale,3.0,71.0,,0.0,Recife,Rosarinho,479400.0
+447,For sale,2.0,57.0,,0.0,Recife,Casa Amarela,321000.0
+448,For sale,3.0,91.0,2.0,0.0,Recife,Boa Viagem,827400.0
+449,For sale,3.0,59.0,,0.0,Recife,Madalena,356000.0
+450,For sale,3.0,61.0,,0.0,Recife,Prado,395000.0
+451,For sale,3.0,67.0,,0.0,Recife,Ilha do Retiro,550000.0
+452,For sale,4.0,123.0,2.0,0.0,Recife,Madalena,954000.0
+453,For sale,,35.0,,0.0,Recife,Espinheiro,327300.0
+454,For sale,3.0,93.0,2.0,0.0,Recife,Casa Amarela,680000.0
+455,For sale,2.0,63.0,,0.0,Recife,Tamarineira,410000.0
+456,For sale,,40.0,,0.0,Recife,Boa Viagem,328000.0
+457,For sale,2.0,50.0,,0.0,Recife,Rosarinho,349000.0
+458,For sale,,32.0,,0.0,Recife,Soledade,285000.0
+459,For sale,3.0,67.0,,0.0,Recife,Casa Amarela,435500.0
+460,For sale,3.0,67.0,,0.0,Recife,Pina,399000.0
+461,For sale,2.0,46.0,,0.0,Recife,Madalena,355000.0
+462,For sale,2.0,56.0,,0.0,Recife,Casa Amarela,400000.0
+463,For sale,2.0,66.0,,605.0,Recife,Casa Amarela,370000.0
+464,For sale,2.0,52.0,,0.0,Recife,Boa Viagem,370000.0
+465,For sale,3.0,80.0,2.0,0.0,Recife,Boa Viagem,560000.0
+466,For sale,3.0,94.0,2.0,886.0,Recife,Parnamirim,933500.0
+467,For sale,3.0,97.0,2.0,0.0,Recife,Boa Viagem,905000.0
+468,For sale,2.0,61.0,,0.0,Recife,Madalena,375000.0
+469,For sale,3.0,92.0,,0.0,Recife,Boa Viagem,754000.0
+470,For sale,2.0,61.0,,400.0,Recife,Iputinga,165000.0
+471,For rent,4.0,150.0,3.0,0.0,Recife,Boa Viagem,6200.0
+472,For rent,3.0,75.0,,0.0,Recife,Várzea,1500.0
+473,For sale,3.0,121.0,,885.0,Recife,Boa Viagem,400000.0
+474,For sale,2.0,68.0,,500.0,Recife,Madalena,390000.0
+475,For sale,2.0,46.0,,0.0,Recife,Torre,320000.0
+476,,,450.0,,,Camaragibe,Vale das Pedreiras,40000.0
+477,For sale,2.0,60.0,,450.0,Recife,Encruzilhada,417000.0
+478,For sale,2.0,46.0,,,Recife,Campo Grande,285000.0
+479,For rent,2.0,47.0,,,Paulista,Pau Amarelo,550.0
+480,For sale,2.0,58.0,,,Recife,Casa Amarela,470000.0
+481,For sale,2.0,50.0,,,Paulista,Pau Amarelo,145000.0
+482,For sale,,40.0,,,Jaboatão dos Guararapes,Barra de Jangada,279163.0
+483,For rent,2.0,47.0,,,Paulista,Pau Amarelo,550.0
+484,For sale,2.0,58.0,,,Recife,Casa Amarela,470000.0
+485,For sale,2.0,50.0,,,Paulista,Pau Amarelo,145000.0
+486,For sale,,40.0,,,Jaboatão dos Guararapes,Barra de Jangada,279163.0
+487,For sale,4.0,134.0,2.0,0.0,Recife,Madalena,1200000.0
+488,For rent,3.0,188.0,3.0,0.0,Recife,Boa Viagem,1700.0
+489,For sale,,48.0,,1344.0,Recife,Boa Viagem,325000.0
+490,,,30.0,,645.0,Recife,Boa Vista,160000.0
+491,For sale,5.0,297.0,5.0,4500.0,Recife,Santana,3200000.0
+492,For sale,3.0,159.0,2.0,1200.0,Olinda,Bairro Novo,530000.0
+493,For sale,3.0,77.0,,350.0,Recife,Boa Viagem,210000.0
+494,For sale,5.0,210.0,,,Recife,Casa Forte,1200000.0
+495,For sale,4.0,145.0,3.0,0.0,Recife,Casa Forte,1014000.0
+496,For sale,3.0,88.0,,612.0,Olinda,Casa Caiada,310000.0
+497,,,24.0,,0.0,Recife,Madalena,1000.0
+498,For sale,3.0,81.0,2.0,0.0,Recife,Boa Viagem,550000.0
+499,For sale,3.0,110.0,2.0,910.0,Recife,Prado,495000.0
+500,For sale,3.0,99.0,,1100.0,Recife,Parnamirim,350000.0
+501,For rent,,28.0,,0.0,Recife,Boa Vista,1600.0
+502,For sale,3.0,68.0,,120.0,Recife,Cordeiro,339000.0
+503,For sale,3.0,106.0,,1000.0,Recife,Tamarineira,400000.0
+504,For sale,4.0,135.0,2.0,,Jaboatão dos Guararapes,Centro,935187.0
+505,For rent,3.0,81.0,2.0,0.0,Recife,Boa Viagem,4200.0
+506,,,295.0,,0.0,Recife,Recife,7000.0
+507,For sale,3.0,155.0,3.0,130.0,Paulista,Nossa Senhora do Ó,250000.0
+508,,,42.0,,,Recife,Ilha do Leite,3500.0
+509,,,1500.0,,0.0,Paulista,Pau Amarelo,2100000.0
+510,For sale,3.0,159.0,2.0,0.0,Olinda,Salgadinho,520000.0
+511,For rent,3.0,81.0,2.0,0.0,Recife,Boa Viagem,4200.0
+512,For sale,,40.0,,,Recife,Soledade,271000.0
+513,For rent,2.0,,,,Jaboatão dos Guararapes,Cajueiro Seco,1300.0
+514,For sale,4.0,132.0,2.0,0.0,Recife,Ilha do Retiro,1281997.0
+515,For sale,2.0,47.0,,0.0,Jaboatão dos Guararapes,Candeias,149200.0
+516,For sale,3.0,240.0,3.0,0.0,Recife,Ipsep,549900.0
+517,For sale,3.0,130.0,2.0,880.0,Jaboatão dos Guararapes,Piedade,689900.0
+518,For sale,3.0,89.0,2.0,,Jaboatão dos Guararapes,Centro,719361.0
+519,For sale,2.0,45.0,,225.0,Jaboatão dos Guararapes,Piedade,150000.0
+520,For sale,3.0,120.0,2.0,0.0,Recife,Parnamirim,750000.0
+521,For sale,3.0,104.0,,900.0,Recife,Parnamirim,420000.0
+522,For sale,2.0,48.0,,0.0,Recife,Boa Vista,369000.0
+523,For sale,3.0,310.0,3.0,0.0,Recife,Várzea,700000.0
+524,For sale,3.0,,,,Abreu e Lima,Timbó,280000.0
+525,For sale,,48.0,,730.0,Recife,Boa Viagem,270000.0
+526,For rent,2.0,45.0,,565.0,Recife,Casa Amarela,1200.0
+527,For sale,3.0,75.0,,0.0,Jaboatão dos Guararapes,Piedade,210000.0
+528,,,19.0,,0.0,Recife,Santo Amaro,900.0
+529,,,644.0,,0.0,Camaragibe,Timbí,1500000.0
+530,For rent,2.0,40.0,,,Vitória de Santo Antão,Matriz,600.0
+531,For sale,4.0,135.0,2.0,736.0,Recife,Boa Viagem,1390000.0
+532,For sale,3.0,131.0,2.0,1000.0,Recife,Graças,530000.0
+533,For sale,3.0,65.0,,0.0,Paulista,Janga,185000.0
+534,For sale,3.0,94.0,2.0,0.0,Recife,Parnamirim,933522.0
+535,For sale,2.0,96.0,,0.0,Recife,Parnamirim,380000.0
+536,For sale,4.0,136.0,2.0,1150.0,Recife,Pina,1450000.0
+537,For sale,3.0,140.0,2.0,360.0,Jaboatão dos Guararapes,Candeias,250000.0
+538,For sale,4.0,208.0,4.0,0.0,Recife,Recife,1400000.0
+539,For sale,3.0,86.0,,900.0,Recife,Boa Viagem,1200000.0
+540,For sale,4.0,124.0,,0.0,Recife,Iputinga,350000.0
+541,For sale,2.0,47.0,,,Recife,Campo Grande,259000.0
+542,For sale,2.0,70.0,,540.0,Recife,Boa Viagem,330000.0
+543,For sale,3.0,59.0,,,Recife,Boa Viagem,399124.0
+544,For sale,3.0,95.0,,760.0,Recife,Aflitos,320000.0
+545,For sale,2.0,85.0,2.0,650.0,Recife,Pina,900000.0
+546,For sale,5.0,300.0,3.0,0.0,Recife,Ibura,250000.0
+547,For sale,4.0,208.0,,0.0,Recife,Santana,2200000.0
+548,For sale,4.0,121.0,2.0,550.0,Recife,Graças,750000.0
+549,For sale,4.0,132.0,2.0,765.0,Recife,Boa Viagem,1400000.0
+550,For rent,4.0,150.0,4.0,0.0,Recife,Boa Viagem,8200.0
+551,For sale,2.0,45.0,,0.0,Paulista,Artur Lundgren I,150000.0
+552,For sale,,33.0,,,Jaboatão dos Guararapes,Candeias,222211.0
+553,For sale,3.0,61.0,,500.0,Recife,Tamarineira,400000.0
+554,For sale,3.0,62.0,,50.0,Jaboatão dos Guararapes,Barra de Jangada,120000.0
+555,For sale,4.0,166.0,3.0,1.0,Recife,Monteiro,1294178.0
+556,For sale,3.0,126.0,,750.0,Jaboatão dos Guararapes,Candeias,500000.0
+557,For rent,3.0,94.0,2.0,0.0,Recife,Boa Viagem,5300.0
+558,For sale,4.0,163.0,3.0,780.0,Recife,Boa Viagem,1400000.0
+559,For sale,3.0,173.0,,1230.0,Jaboatão dos Guararapes,Centro,580000.0
+560,For rent,,43.0,,0.0,Recife,Boa Viagem,3600.0
+561,For rent,2.0,48.0,,220.0,São Lourenço da Mata,Pixete,600.0
+562,For sale,2.0,43.0,,0.0,Recife,Iputinga,219000.0
+563,For sale,2.0,44.0,,0.0,Recife,Torreão,287399.0
+564,For sale,2.0,53.0,,0.0,Recife,Graças,561000.0
+565,For sale,2.0,44.0,,0.0,Recife,Torreão,287399.0
+566,For sale,2.0,53.0,,0.0,Recife,Graças,561000.0
+567,For rent,4.0,158.0,3.0,1600.0,Recife,Boa Viagem,4500.0
+568,For sale,2.0,58.0,,359.0,Recife,Boa Viagem,599000.0
+569,For sale,3.0,92.0,2.0,0.0,Recife,Boa Viagem,754000.0
+570,For sale,3.0,144.0,,950.0,Recife,Boa Viagem,455000.0
+571,For sale,2.0,56.0,,,Jaboatão dos Guararapes,Piedade,355308.0
+572,For sale,4.0,140.0,2.0,0.0,Recife,Boa Viagem,900000.0
+573,For sale,4.0,300.0,3.0,1800.0,Recife,Casa Forte,1200000.0
+574,For rent,4.0,104.0,2.0,300.0,Camaragibe,Aldeia dos Camarás,3501.0
+575,For rent,4.0,104.0,2.0,300.0,Camaragibe,Aldeia dos Camarás,3498.0
+576,For rent,4.0,104.0,2.0,300.0,Camaragibe,Aldeia dos Camarás,3503.0
+577,For sale,2.0,46.0,,0.0,Paulista,Jaguaribe,142000.0
+578,For sale,2.0,53.0,,0.0,Jaboatão dos Guararapes,Candeias,175900.0
+579,,,250.0,,,Jaboatão dos Guararapes,Floriano,25000.0
+580,For sale,2.0,55.0,,0.0,Paulista,Janga,140000.0
+581,For rent,2.0,75.0,,0.0,Recife,Totó,600.0
+582,For sale,3.0,170.0,2.0,,Camaragibe,Aldeia dos Camarás,580000.0
+583,,,63.0,,0.0,Recife,Ilha do Leite,4134.0
+584,For sale,3.0,120.0,,800.0,Recife,Boa Viagem,580000.0
+585,For sale,3.0,80.0,,765.0,Recife,Espinheiro,450000.0
+586,For rent,3.0,120.0,2.0,0.0,Recife,Boa Viagem,2700.0
+587,For rent,,42.0,,0.0,Recife,Boa Viagem,2100.0
+588,For sale,3.0,73.0,,275.0,Recife,Tamarineira,240000.0
+589,For sale,,30.0,,895.0,Jaboatão dos Guararapes,Candeias,180000.0
+590,For sale,3.0,62.0,2.0,,Jaboatão dos Guararapes,Piedade,399326.0
+591,For sale,3.0,94.0,2.0,0.0,Recife,Parnamirim,1096000.0
+592,For sale,4.0,155.0,2.0,0.0,Recife,Boa Viagem,750000.0
+593,For sale,3.0,86.0,2.0,0.0,Recife,Boa Viagem,730000.0
+594,,,170.0,,0.0,Recife,Pina,9000.0
+595,For rent,2.0,55.0,,,Paulista,Maranguape I,1049.0
+596,For sale,3.0,93.0,2.0,0.0,Recife,Boa Viagem,1195000.0
+597,For rent,2.0,50.0,,0.0,Recife,Boa Viagem,1700.0
+598,For rent,3.0,70.0,,0.0,Paulista,Centro,1250.0
+599,For sale,2.0,76.0,,506.0,Recife,Boa Viagem,250000.0
+600,For sale,2.0,55.0,,50.0,Olinda,Fragoso,170000.0
+601,,,160.0,,0.0,Recife,Coelhos,700000.0
+602,For sale,,35.0,,0.0,Recife,Graças,285000.0
+603,For sale,4.0,166.0,2.0,1358.0,Recife,Madalena,800000.0
+604,,,26.0,,,Recife,Tamarineira,1840.0
+605,For sale,4.0,200.0,2.0,500.0,Camaragibe,Aldeia dos Camarás,560000.0
+606,For sale,5.0,220.0,2.0,1500.0,Recife,Espinheiro,700000.0
+607,For sale,5.0,384.0,3.0,0.0,Caruaru,Luiz Gonzaga,450000.0
+608,For sale,3.0,80.0,2.0,0.0,Recife,Boa Viagem,900000.0
+609,For sale,2.0,60.0,,0.0,Recife,Boa Viagem,375000.0
+610,For sale,3.0,96.0,2.0,800.0,Olinda,Casa Caiada,345000.0
+611,For sale,,32.0,,0.0,Recife,Poço,386086.0
+612,For sale,5.0,228.0,5.0,,Recife,Cordeiro,850000.0
+613,For sale,3.0,67.0,,350.0,Recife,Imbiribeira,367999.0
+614,For sale,2.0,55.0,,242.0,Camaragibe,Alberto Maia,189000.0
+615,,,780.0,,,Abreu e Lima,Distrito Industrial,12000.0
+616,For sale,3.0,74.0,2.0,500.0,Recife,Boa Viagem,550000.0
+617,For sale,,50.0,,0.0,Recife,Alto do Mandu,28000.0
+618,For rent,2.0,80.0,,700.0,Recife,Graças,1250.0
+619,,,30.0,,386.0,Recife,Casa Amarela,210000.0
+620,,,1335.0,,0.0,Recife,Pina,40000.0
+621,,,,,0.0,Carpina,Santo Antônio,550000.0
+622,For sale,3.0,163.0,2.0,1018.0,Recife,Espinheiro,850000.0
+623,For sale,3.0,63.0,,225.0,Jaboatão dos Guararapes,Candeias,150000.0
+624,For sale,3.0,63.0,,550.0,Recife,Campo Grande,235000.0
+625,For sale,,37.0,,,Jaboatão dos Guararapes,Piedade,230157.0
+626,For rent,3.0,108.0,,1284.0,Recife,Casa Amarela,800.0
+627,For sale,3.0,105.0,2.0,850.0,Recife,Encruzilhada,698000.0
+628,For sale,2.0,46.0,,200.0,Paulista,Jaguarana,48999.0
+629,For rent,2.0,,2.0,,Recife,Várzea,1200.0
+630,For rent,2.0,50.0,,0.0,Olinda,Jardim Atlântico,550.0
+631,,,150.0,,,Recife,Boa Viagem,900000.0
+632,For rent,3.0,113.0,2.0,0.0,Cabo de Santo Agostinho,Paiva,5500.0
+633,For sale,2.0,113.0,2.0,0.0,Cabo de Santo Agostinho,Paiva,900000.0
+634,For sale,3.0,79.0,2.0,,Jaboatão dos Guararapes,Centro,549123.0
+635,,,243.0,,,Recife,Boa Vista,820000.0
+636,For sale,2.0,65.0,,,Recife,Santo Amaro,150000.0
+637,For rent,2.0,59.0,,320.0,Recife,Boa Viagem,2800.0
+638,For sale,3.0,72.0,,0.0,Recife,Pina,460000.0
+639,For sale,4.0,140.0,2.0,1000.0,Recife,Pina,1400000.0
+640,For sale,3.0,160.0,2.0,1080.0,Recife,Boa Viagem,460000.0
+641,For sale,4.0,352.0,3.0,0.0,Jaboatão dos Guararapes,Piedade,750000.0
+642,For sale,,24.0,,0.0,Recife,Boa Viagem,207600.0
+643,For sale,4.0,268.0,,875.0,Recife,Boa Viagem,695000.0
+644,For sale,2.0,58.0,,700.0,Recife,Madalena,360000.0
+645,For sale,4.0,115.0,,900.0,Gravatá,Porta Florada,420000.0
+646,For sale,4.0,410.0,3.0,2800.0,Recife,Boa Viagem,4500000.0
+647,For sale,2.0,70.0,,0.0,Paulista,Mirueira,219000.0
+648,For sale,2.0,43.0,2.0,0.0,Jaboatão dos Guararapes,Marcos Freire,65000.0
+649,For rent,3.0,,,,Recife,Jardim São Paulo,500.0
+650,For sale,3.0,122.0,2.0,0.0,Recife,Casa Forte,970000.0
+651,For sale,3.0,,,,Jaboatão dos Guararapes,Guararapes,600.0
+652,For sale,4.0,350.0,4.0,0.0,Camaragibe,Aldeia dos Camarás,750000.0
+653,For sale,4.0,152.0,2.0,1100.0,Recife,Boa Viagem,1760000.0
+654,For sale,3.0,75.0,,0.0,Recife,Estância,210000.0
+655,For rent,,32.0,,0.0,Recife,Pina,2300.0
+656,For sale,4.0,200.0,2.0,0.0,Camaragibe,Aldeia dos Camarás,470000.0
+657,For sale,3.0,75.0,,0.0,Jaboatão dos Guararapes,Candeias,380000.0
+658,,,223.0,,3042.0,Recife,Boa Viagem,11150.0
+659,For sale,4.0,250.0,2.0,1400.0,Recife,Casa Amarela,850000.0
+660,For rent,3.0,,,,Jaboatão dos Guararapes,Guararapes,700.0
+661,For sale,4.0,122.0,3.0,1100.0,Recife,Rosarinho,950000.0
+662,For sale,4.0,152.0,3.0,0.0,Recife,Ilha do Retiro,900000.0
+663,For rent,,35.0,,0.0,Recife,Aflitos,1800.0
+664,For sale,3.0,63.0,,600.0,Recife,Casa Amarela,439500.0
+665,For rent,3.0,150.0,2.0,180.0,Recife,Boa Viagem,2300.0
+666,For sale,3.0,91.0,2.0,0.0,Recife,Torre,620000.0
+667,For sale,4.0,411.0,3.0,3500.0,Recife,Boa Viagem,4500000.0
+668,For sale,4.0,130.0,2.0,1000.0,Recife,Boa Viagem,1647811.0
+669,For sale,2.0,49.0,,0.0,Recife,Poço,315000.0
+670,For sale,,24.0,,500.0,Recife,Boa Viagem,267215.0
+671,For sale,3.0,120.0,,800.0,Olinda,Casa Caiada,420000.0
+672,For sale,2.0,45.0,,0.0,Recife,Iputinga,250000.0
+673,For sale,3.0,90.0,,350.0,Recife,Pina,270000.0
+674,For sale,,35.0,,0.0,Jaboatão dos Guararapes,Piedade,215000.0
+675,For sale,,40.0,,0.0,Jaboatão dos Guararapes,Candeias,284999.0
+676,For sale,4.0,131.0,2.0,,Recife,Parnamirim,680000.0
+677,,,170.0,,0.0,Recife,Boa Viagem,13650.0
+678,For rent,,46.0,,,Recife,Boa Viagem,2500.0
+679,For rent,3.0,75.0,2.0,,Recife,Boa Viagem,3300.0
+680,For sale,3.0,134.0,,0.0,Recife,Casa Amarela,650000.0
+681,For sale,3.0,86.0,,580.0,Recife,Torre,230000.0
+682,For sale,4.0,103.0,,0.0,Jaboatão dos Guararapes,Candeias,235000.0
+683,For sale,3.0,130.0,2.0,1200.0,Recife,Tamarineira,450000.0
+684,For sale,3.0,150.0,2.0,0.0,Recife,Boa Viagem,850000.0
+685,For sale,3.0,135.0,2.0,0.0,Jaboatão dos Guararapes,Piedade,600000.0
+686,,,30.0,,0.0,Recife,Boa Viagem,1400.0
+687,For sale,2.0,85.0,2.0,750.0,Jaboatão dos Guararapes,Candeias,330000.0
+688,For sale,3.0,98.0,2.0,748.0,Jaboatão dos Guararapes,Candeias,380000.0
+689,For sale,3.0,75.0,2.0,600.0,Caruaru,Universitário,340000.0
+690,For sale,3.0,117.0,2.0,0.0,Caruaru,Luiz Gonzaga,340000.0
+691,For sale,2.0,45.0,,0.0,Recife,Boa Vista,351000.0
+692,For sale,2.0,54.0,,0.0,Paulista,Jaguaribe,150000.0
+693,For sale,3.0,80.0,,250.0,Jaboatão dos Guararapes,Piedade,210000.0
+694,For sale,2.0,43.0,,,Recife,Boa Viagem,470000.0
+695,For rent,,33.0,,0.0,Recife,Pina,2500.0
+696,For sale,4.0,420.0,4.0,2600.0,Recife,Boa Viagem,4487900.0
+697,For sale,2.0,48.0,,465.0,Recife,Boa Viagem,369000.0
+698,For sale,3.0,142.0,,1260.0,Recife,Boa Viagem,650000.0
+699,For sale,3.0,106.0,2.0,750.0,Recife,Casa Amarela,870000.0
+700,For sale,3.0,87.0,2.0,1000.0,Recife,Boa Viagem,870000.0
+701,For sale,,38.0,,358.0,Recife,Boa Vista,357000.0
+702,For sale,4.0,152.0,2.0,0.0,Recife,Boa Viagem,1760000.0
+703,For sale,2.0,57.0,,0.0,Recife,Santo Amaro,390000.0
+704,For sale,,,,,Olinda,Jardim Atlântico,
+705,For sale,3.0,260.0,3.0,0.0,Recife,Torre,999000.0
+706,For sale,2.0,57.0,,350.0,Recife,Encruzilhada,420000.0
+707,For sale,3.0,66.0,,0.0,Jaboatão dos Guararapes,Candeias,435000.0
+708,For sale,2.0,51.0,,0.0,Recife,Tamarineira,448000.0
+709,For sale,3.0,80.0,2.0,500.0,Recife,Boa Viagem,520000.0
+710,For sale,3.0,19.0,2.0,0.0,Recife,Boa Viagem,1590000.0
+711,For rent,,34.0,,0.0,Recife,Boa Viagem,2000.0
+712,For sale,3.0,80.0,,,Recife,Boa Viagem,399000.0
+713,For sale,3.0,91.0,2.0,,Recife,Boa Viagem,685000.0
+714,,,350.0,,,Recife,Ilha do Leite,9900.0
+715,For sale,4.0,160.0,3.0,0.0,Recife,Boa Viagem,1600000.0
+716,For rent,4.0,200.0,3.0,0.0,Recife,Boa Viagem,8500.0
+717,For sale,2.0,42.0,,0.0,Camaragibe,Jardim Primavera,76400.0
+718,For sale,2.0,50.0,,0.0,Olinda,Bultrins,185000.0
+719,For sale,2.0,55.0,,0.0,Recife,Encruzilhada,296863.0
+720,For sale,2.0,66.0,,400.0,Recife,Imbiribeira,200000.0
+721,For sale,2.0,47.0,,,Recife,Boa Viagem,318991.0
+722,For rent,2.0,60.0,,,Recife,Torrões,600.0
+723,For sale,2.0,58.0,,0.0,Recife,Boa Viagem,580000.0
+724,For sale,4.0,700.0,5.0,,Recife,Graças,1580000.0
+725,For sale,2.0,54.0,,0.0,Olinda,Jardim Atlântico,247125.0
+726,For sale,4.0,168.0,2.0,1250.0,Recife,Madalena,830000.0
+727,For sale,2.0,70.0,,0.0,Paulista,Pau Amarelo,165000.0
+728,For sale,3.0,63.0,,550.0,Recife,Casa Amarela,420000.0
+729,For sale,2.0,50.0,,190.0,Jaboatão dos Guararapes,Candeias,180000.0
+730,For sale,4.0,120.0,2.0,1246.0,Recife,Boa Viagem,640000.0
+731,For sale,3.0,200.0,5.0,,Gravatá,Alpes Suiços,650000.0
+732,,,25.0,,0.0,Recife,Boa Viagem,460000.0
+733,For rent,2.0,55.0,,0.0,Recife,Apipucos,1500.0
+734,For sale,4.0,290.0,2.0,2200.0,Recife,Monteiro,990000.0
+735,For sale,3.0,90.0,2.0,500.0,Gravatá,Ebenezer,250000.0
+736,For sale,2.0,63.0,,0.0,Jaboatão dos Guararapes,Candeias,340000.0
+737,For rent,5.0,428.0,5.0,0.0,Recife,Parnamirim,8000.0
+738,,,120.0,,800.0,Recife,Soledade,5000.0
+739,,,41.0,,391.0,Recife,Boa Viagem,290000.0
+740,For sale,3.0,90.0,2.0,500.0,Gravatá,Ebenezer,250000.0
+741,For sale,2.0,63.0,,0.0,Jaboatão dos Guararapes,Candeias,340000.0
+742,For rent,5.0,428.0,5.0,0.0,Recife,Parnamirim,8000.0
+743,,,120.0,,800.0,Recife,Soledade,5000.0
+744,,,41.0,,391.0,Recife,Boa Viagem,290000.0
+745,For sale,2.0,64.0,,0.0,Gravatá,Nossa Senhora das Graças,120000.0
+746,,,250.0,,0.0,Gravatá,Nossa Senhora das Graças,60000.0
+747,,,300.0,,0.0,Gravatá,Nossa Senhora das Graças,1700000.0
+748,For sale,2.0,140.0,2.0,0.0,Gravatá,Nossa Senhora das Graças,220000.0
+749,,,250.0,,0.0,Gravatá,Porta Florada,800000.0
+750,For sale,3.0,100.0,,0.0,Gravatá,Nossa Senhora das Graças,250000.0
+751,For sale,2.0,68.0,,160.0,Caruaru,Universitário,210000.0
+752,,,2500.0,,100.0,Recife,Graças,4000000.0
+753,For sale,3.0,134.0,,0.0,Recife,Casa Amarela,650000.0
+754,For rent,4.0,220.0,,0.0,Jaboatão dos Guararapes,Piedade,6500.0
+755,,,1500.0,,,Paulista,Nobre,16500.0
+756,For sale,2.0,57.0,,445.0,Recife,Encruzilhada,390000.0
+757,For sale,2.0,59.0,,,Recife,Boa Viagem,510000.0
+758,For sale,3.0,62.0,,,Recife,Prado,354603.0
+759,,,2317.0,,,Jaboatão dos Guararapes,Curado,46340.0
+760,For sale,4.0,378.0,4.0,2700.0,Jaboatão dos Guararapes,Piedade,1350000.0
+761,For sale,4.0,246.0,3.0,1800.0,Recife,Boa Viagem,1100000.0
+762,For sale,2.0,,,,Cabo de Santo Agostinho,Torrinha,100000.0
+763,For rent,4.0,200.0,2.0,,Camaragibe,Aldeia dos Camarás,2950.0
+764,For sale,3.0,115.0,2.0,860.0,Recife,Madalena,600000.0
+765,For sale,3.0,70.0,,,Paulista,Centro,239000.0
+766,For sale,4.0,208.0,3.0,1430.0,Recife,Torre,1720000.0
+767,For rent,,30.0,,0.0,Jaboatão dos Guararapes,Candeias,2000.0
+768,For sale,,38.0,,0.0,Recife,Boa Vista,325000.0
+769,For sale,3.0,195.0,2.0,650.0,Gravatá,São José,500000.0
+770,For sale,3.0,120.0,,0.0,Jaboatão dos Guararapes,Candeias,279890.0
+771,For rent,2.0,60.0,,0.0,Recife,Vasco da Gama,700.0
+772,For sale,,36.0,,0.0,Jaboatão dos Guararapes,Candeias,215000.0
+773,,,64.0,,0.0,Recife,Boa Viagem,529394.0
+774,For sale,4.0,90.0,,0.0,Recife,Madalena,789000.0
+775,,,34.0,,0.0,Recife,Paissandu,2600.0
+776,For sale,3.0,65.0,,200.0,Jaboatão dos Guararapes,Candeias,140000.0
+777,For sale,3.0,120.0,,1500.0,Recife,Graças,430000.0
+778,For sale,4.0,168.0,,1400.0,Recife,Pina,950000.0
+779,For sale,,36.0,,750.0,Jaboatão dos Guararapes,Barra de Jangada,200000.0
+780,For sale,2.0,50.0,,,Paulista,Pau Amarelo,140000.0
+781,For sale,3.0,80.0,,0.0,Recife,Cordeiro,383000.0
+782,,,225.0,,2500.0,Recife,Boa Viagem,1250000.0
+783,For sale,3.0,128.0,2.0,1100.0,Recife,Boa Viagem,990000.0
+784,For sale,2.0,52.0,,410.0,Recife,Boa Viagem,333000.0
+785,For sale,3.0,80.0,,0.0,Recife,Cordeiro,383000.0
+786,,,225.0,,2500.0,Recife,Boa Viagem,1250000.0
+787,For sale,3.0,128.0,2.0,1100.0,Recife,Boa Viagem,990000.0
+788,For sale,2.0,52.0,,410.0,Recife,Boa Viagem,333000.0
+789,,,1360.0,,0.0,Jaboatão dos Guararapes,Jardim Jordão,2300000.0
+790,,,1000.0,,0.0,Recife,Recife,17479.0
+791,,,1670.0,,0.0,Recife,Ilha do Retiro,5000000.0
+792,,,745.0,,0.0,Recife,Espinheiro,40000.0
+793,For sale,5.0,278.0,5.0,0.0,Recife,Espinheiro,780000.0
+794,For sale,2.0,52.0,,0.0,Igarassu,Cruz do Rebouças,150000.0
+795,For rent,3.0,100.0,,0.0,Recife,Santo Amaro,2700.0
+796,For sale,3.0,119.0,2.0,1315.0,Recife,Boa Viagem,680000.0
+797,For sale,3.0,94.0,2.0,,Recife,Parnamirim,665000.0
+798,For sale,4.0,164.0,3.0,900.0,Recife,Boa Viagem,1580000.0
+799,For sale,,36.0,,,Recife,Pina,305000.0
+800,For sale,,37.0,,,Jaboatão dos Guararapes,Candeias,250000.0
+801,For sale,4.0,212.0,3.0,0.0,Cabo de Santo Agostinho,Paiva,2500000.0
+802,For sale,4.0,125.0,2.0,0.0,Recife,Boa Viagem,1320000.0
+803,,,50.0,,0.0,Cabo de Santo Agostinho,Paiva,200520.0
+804,,,917.0,,,Recife,Imbiribeira,20000.0
+805,For sale,3.0,135.0,,500.0,Recife,Boa Vista,350000.0
+806,For sale,4.0,241.0,3.0,0.0,Recife,Boa Viagem,3100000.0
+807,For sale,2.0,47.0,,,Recife,Boa Viagem,307000.0
+808,For rent,,0.0,,0.0,Recife,Boa Viagem,1600.0
+809,For sale,2.0,60.0,2.0,400.0,Caruaru,Universitário,350000.0
+810,For sale,3.0,69.0,,670.0,Recife,Espinheiro,389000.0
+811,For sale,,35.0,,370.0,Recife,Casa Amarela,280000.0
+812,For sale,2.0,65.0,,200.0,Jaboatão dos Guararapes,Candeias,110000.0
+813,For sale,4.0,238.0,3.0,2100.0,Jaboatão dos Guararapes,Piedade,1600000.0
+814,For sale,3.0,79.0,,0.0,Recife,Pina,705470.0
+815,For sale,3.0,69.0,2.0,0.0,Jaboatão dos Guararapes,Piedade,280000.0
+816,For sale,3.0,97.0,2.0,0.0,Jaboatão dos Guararapes,Candeias,630000.0
+817,For sale,,40.0,,0.0,Jaboatão dos Guararapes,Candeias,245000.0
+818,For sale,2.0,53.0,,0.0,Recife,Várzea,380900.0
+819,For sale,3.0,75.0,,450.0,Recife,Várzea,330000.0
+820,For rent,2.0,60.0,,0.0,Jaboatão dos Guararapes,Candeias,750.0
+821,For sale,2.0,120.0,2.0,,Camaragibe,Vale das Pedreiras,180000.0
+822,,5.0,,5.0,,Paulista,Pau Amarelo,2500.0
+823,For sale,2.0,59.0,,,Recife,Boa Viagem,340000.0
+824,,,340.0,,0.0,Abreu e Lima,Timbó,1750000.0
+825,For sale,3.0,158.0,,820.0,Olinda,Bairro Novo,650000.0
+826,For rent,,40.0,,0.0,Jaboatão dos Guararapes,Barra de Jangada,1500.0
+827,For sale,2.0,114.0,,0.0,Olinda,Bairro Novo,500000.0
+828,For sale,3.0,89.0,2.0,850.0,Recife,Torre,550000.0
+829,For sale,2.0,60.0,,500.0,Jaboatão dos Guararapes,Candeias,280000.0
+830,,,30.0,,542.0,Recife,Santo Amaro,90000.0
+831,For sale,2.0,0.0,,,Caruaru,Alto do Moura,110000.0
+832,For sale,3.0,70.0,,0.0,Recife,Iputinga,460000.0
+833,For sale,4.0,173.0,2.0,1100.0,Recife,Boa Viagem,800000.0
+834,For sale,5.0,470.0,5.0,850.0,Jaboatão dos Guararapes,Curado,2200000.0
+835,For sale,4.0,149.0,2.0,720.0,Recife,Caxangá,595000.0
+836,For sale,3.0,169.0,,0.0,Caruaru,Maurício de Nassau,320000.0
+837,For rent,4.0,175.0,3.0,0.0,Recife,Boa Viagem,12000.0
+838,,,360.0,,,Caruaru,Nova Caruaru,110000.0
+839,For sale,3.0,83.0,,0.0,Recife,Várzea,454000.0
+840,For sale,3.0,73.0,,401.0,Recife,Encruzilhada,485000.0
+841,For sale,3.0,80.0,2.0,580.0,Recife,Aflitos,540000.0
+842,For rent,2.0,70.0,,0.0,Recife,Ilha do Leite,2000.0
+843,For sale,3.0,60.0,,0.0,Recife,Boa Vista,385400.0
+844,For sale,3.0,280.0,2.0,0.0,Recife,Ipsep,350000.0
+845,,,14.0,,750.0,Recife,Boa Viagem,1600.0
+846,For sale,4.0,127.0,2.0,,Recife,Boa Viagem,950000.0
+847,For rent,2.0,54.0,,0.0,Recife,Encruzilhada,2300.0
+848,For sale,4.0,136.0,2.0,,Recife,Boa Viagem,840000.0
+849,For sale,4.0,140.0,2.0,3000.0,Recife,Derby,3000000.0
+850,,,40.0,,486.0,Recife,Boa Viagem,145000.0
+851,,,36.0,,613.0,Recife,Paissandu,110000.0
+852,For sale,4.0,190.0,2.0,0.0,Olinda,Amaro Branco,730000.0
+853,For sale,4.0,331.0,4.0,,Olinda,Casa Caiada,1650000.0
+854,For rent,2.0,50.0,,0.0,Recife,Boa Viagem,2500.0
+855,For sale,3.0,136.0,2.0,1200.0,Recife,Boa Viagem,490000.0
+856,For sale,2.0,81.0,,410.0,Olinda,Rio Doce,240000.0
+857,For sale,3.0,81.0,2.0,750.0,Recife,Boa Viagem,990000.0
+858,For sale,3.0,123.0,,1150.0,Recife,Graças,465000.0
+859,,,60.0,,2800.0,Recife,Ilha do Leite,5000.0
+860,,,48.0,,589.0,Recife,Graças,350000.0
+861,For rent,,42.0,,,Olinda,Casa Caiada,2600.0
+862,For sale,3.0,100.0,2.0,0.0,Olinda,Casa Caiada,600000.0
+863,For sale,2.0,106.0,2.0,0.0,Cabo de Santo Agostinho,Paiva,1300000.0
+864,For sale,3.0,107.0,,0.0,Olinda,Rio Doce,560000.0
+865,For rent,4.0,166.0,2.0,,Recife,Rosarinho,5200.0
+866,For sale,4.0,173.0,4.0,900.0,Recife,Recife,1650000.0
+867,For sale,4.0,174.0,2.0,1200.0,Jaboatão dos Guararapes,Piedade,850000.0
+868,For sale,3.0,93.0,2.0,760.0,Recife,Casa Amarela,720000.0
+869,For rent,4.0,104.0,2.0,0.0,Olinda,Casa Caiada,1250.0
+870,For sale,3.0,247.0,3.0,,Recife,São José,2200000.0
+871,For sale,2.0,59.0,,,Recife,Boa Viagem,430000.0
+872,,,56.0,,,Recife,Tamarineira,510000.0
+873,,,56.0,,,Recife,Tamarineira,510000.0
+874,For rent,4.0,450.0,5.0,0.0,Camaragibe,Aldeia dos Camarás,6000.0
+875,For rent,,33.0,,0.0,Recife,Parnamirim,2900.0
+876,,,197.0,,0.0,Recife,Graças,1500000.0
+877,For sale,3.0,107.0,2.0,0.0,Recife,Boa Viagem,810000.0
+878,For sale,3.0,97.0,2.0,,Recife,Boa Viagem,880900.0
+879,For sale,3.0,230.0,3.0,,Recife,Boa Viagem,3500000.0
+880,For sale,2.0,,,,Recife,Torre,289603.0
+881,For rent,2.0,65.0,,,Caruaru,Cidade Alta,500.0
+882,For sale,3.0,120.0,,835.0,Recife,Encruzilhada,330000.0
+883,For sale,2.0,44.0,,300.0,Recife,Torre,350000.0
+884,For sale,3.0,93.0,,,Recife,Iputinga,255000.0
+885,For sale,2.0,,,,Recife,Torre,289600.0
+886,For sale,4.0,180.0,,0.0,Paulista,Janga,245000.0
+887,For rent,,40.0,,0.0,Jaboatão dos Guararapes,Piedade,1500.0
+888,For sale,2.0,,,,Recife,Torre,289830.0
+889,For sale,2.0,70.0,,500.0,Recife,Boa Viagem,250000.0
+890,For sale,3.0,110.0,2.0,900.0,Recife,Aflitos,565000.0
+891,For sale,3.0,0.0,,,Camaragibe,São Pedro,320000.0
+892,For sale,3.0,75.0,,80.0,Olinda,Bairro Novo,145000.0
+893,For sale,3.0,30.0,,,Jaboatão dos Guararapes,Vila Rica,100000.0
+894,,,3150.0,,0.0,Paulista,Tabajara,210000.0
+895,For sale,2.0,72.0,,400.0,Gravatá,Nossa Senhora das Graças,350000.0
+896,For sale,3.0,106.0,2.0,800.0,Recife,Boa Viagem,880000.0
+897,For rent,4.0,170.0,2.0,0.0,Gravatá,Nossa Senhora das Graças,2500.0
+898,For rent,,27.0,,0.0,Recife,Boa Viagem,2500.0
+899,For sale,3.0,120.0,2.0,900.0,Recife,Boa Viagem,850000.0
+900,,,300.0,,0.0,Gravatá,Ebenezer,100000.0
+901,For sale,3.0,85.0,2.0,700.0,Recife,Boa Viagem,600000.0
+902,For sale,3.0,90.0,2.0,940.0,Jaboatão dos Guararapes,Piedade,517000.0
+903,For sale,2.0,42.0,,0.0,Jaboatão dos Guararapes,Barra de Jangada,142000.0
+904,For sale,2.0,42.0,,0.0,Camaragibe,Alberto Maia,140900.0
+905,,,30.0,,440.0,Recife,Pina,190000.0
+906,For sale,2.0,400.0,5.0,0.0,Paulista,Janga,400000.0
+907,,,82.0,,1280.0,Recife,Paissandu,620000.0
+908,For rent,,30.0,,0.0,Jaboatão dos Guararapes,Piedade,2000.0
+909,For rent,3.0,108.0,2.0,0.0,Recife,Boa Viagem,6000.0
+910,For sale,3.0,67.0,,0.0,Jaboatão dos Guararapes,Candeias,440000.0
+911,For sale,,33.0,,0.0,Jaboatão dos Guararapes,Piedade,247000.0
+912,For sale,3.0,170.0,2.0,1152.0,Recife,Boa Viagem,1050000.0
+913,For rent,3.0,96.0,2.0,0.0,Recife,Boa Viagem,6500.0
+914,For sale,5.0,280.0,3.0,,Recife,Hipódromo,800000.0
+915,For sale,2.0,50.0,,250.0,Caruaru,Universitário,170000.0
+916,For sale,3.0,67.0,,0.0,Recife,Ilha do Retiro,532000.0
+917,For sale,2.0,56.0,,580.0,Recife,Boa Viagem,600000.0
+918,For sale,,36.0,5.0,1.0,Recife,Graças,389000.0
+919,For sale,4.0,100.0,,800.0,Jaboatão dos Guararapes,Piedade,150000.0
+920,For sale,4.0,190.0,3.0,,Recife,Graças,1800000.0
+921,For rent,2.0,57.0,,0.0,Recife,Boa Viagem,3200.0
+922,For sale,3.0,55.0,,,Recife,Caxangá,350012.0
+923,For sale,2.0,45.0,,0.0,Jaboatão dos Guararapes,Candeias,152999.0
+924,For sale,,33.0,,0.0,Jaboatão dos Guararapes,Candeias,186000.0
+925,For sale,2.0,51.0,,400.0,Recife,Madalena,370000.0
+926,For rent,2.0,56.0,,0.0,Recife,Boa Viagem,3000.0
+927,For sale,2.0,50.0,,,Recife,Aflitos,326000.0
+928,For sale,3.0,90.0,2.0,,Jaboatão dos Guararapes,Candeias,590000.0
+929,For sale,2.0,54.0,,0.0,Jaboatão dos Guararapes,Piedade,315000.0
+930,For rent,2.0,51.0,,0.0,Jaboatão dos Guararapes,Piedade,2650.0
+931,For sale,3.0,108.0,,650.0,Recife,Boa Viagem,310000.0
+932,For sale,3.0,90.0,2.0,400.0,Caruaru,Maurício de Nassau,450000.0
+933,For sale,2.0,48.0,,217.0,São Lourenço da Mata,Muribara,123000.0
+934,For sale,3.0,97.0,2.0,0.0,Recife,Boa Viagem,830000.0
+935,For sale,4.0,218.0,2.0,1900.0,Recife,Graças,1140000.0
+936,For sale,2.0,90.0,,650.0,Recife,Boa Viagem,460000.0
+937,For sale,3.0,63.0,,,Recife,Encruzilhada,290012.0
+938,For sale,3.0,92.0,,0.0,Recife,San Martin,450000.0
+939,For sale,3.0,74.0,2.0,,Paulista,Janga,280000.0
+940,For sale,3.0,86.0,2.0,0.0,Recife,Boa Viagem,718177.0
+941,For sale,4.0,112.0,2.0,0.0,Recife,Torre,790000.0
+942,For rent,5.0,432.0,,0.0,Olinda,Bairro Novo,13000.0
+943,For sale,3.0,70.0,,450.0,Recife,Rosarinho,220000.0
+944,For sale,3.0,72.0,,,Recife,Cordeiro,520012.0
+945,For sale,3.0,90.0,2.0,0.0,Recife,Pina,800000.0
+946,For sale,2.0,40.0,,0.0,Jaboatão dos Guararapes,Candeias,285000.0
+947,For sale,4.0,143.0,2.0,250.0,Jaboatão dos Guararapes,Candeias,270000.0
+948,For sale,2.0,50.0,,0.0,Recife,Rosarinho,359000.0
+949,For sale,2.0,48.0,,732.0,Gravatá,Alpes Suiços,180000.0
+950,For sale,5.0,190.0,2.0,1090.0,Gravatá,Gravatá Centro,860000.0
+951,For rent,3.0,110.0,2.0,680.0,Gravatá,Gravatá Centro,2000.0
+952,For rent,3.0,,,,Jaboatão dos Guararapes,Guararapes,600.0
+953,For sale,2.0,73.0,2.0,700.0,Jaboatão dos Guararapes,Candeias,370000.0
+954,For sale,3.0,67.0,,,Recife,Ilha do Retiro,459000.0
+955,,,30.0,,230.0,Recife,Santo Antônio,75000.0
+956,For sale,2.0,58.0,,100.0,Olinda,Jardim Atlântico,100000.0
+957,For rent,3.0,,,,Recife,Jardim São Paulo,600.0
+958,For sale,2.0,57.0,,,Recife,Boa Viagem,893012.0
+959,For sale,2.0,56.0,2.0,345.0,Jaboatão dos Guararapes,Piedade,340000.0
+960,For sale,2.0,,,,Gravatá,Cruzeiro,140000.0
+961,,,200.0,,,Recife,Santo Antônio,10000.0
+962,For sale,2.0,78.0,,,Paulista,Pau Amarelo,299990.0
+963,,,4000.0,,350000.0,Olinda,Ouro Preto,350000.0
+964,For sale,4.0,600.0,,0.0,Olinda,Varadouro,750000.0
+965,For sale,3.0,105.0,2.0,0.0,Recife,Casa Amarela,870000.0
+966,For sale,3.0,200.0,,,Olinda,Rio Doce,220000.0
+967,For sale,3.0,57.0,,,Recife,Tamarineira,236012.0
+968,For sale,4.0,113.0,2.0,0.0,Recife,Torre,819000.0
+969,,,1400.0,,0.0,Recife,Recife,10000.0
+970,For sale,5.0,410.0,2.0,,Olinda,Carmo,1200000.0
+971,,,42.0,,830.0,Recife,Derby,900.0
+972,For sale,4.0,430.0,2.0,2700.0,Recife,Boa Viagem,1600000.0
+973,For sale,,33.0,,,Recife,Soledade,256012.0
+974,,,460.0,,0.0,Recife,Afogados,320000.0
+975,For sale,2.0,46.0,,0.0,Paulista,Janga,175000.0
+976,For sale,3.0,89.0,2.0,627.0,Jaboatão dos Guararapes,Centro,650000.0
+977,For sale,3.0,82.0,,0.0,Jaboatão dos Guararapes,Candeias,429000.0
+978,For rent,,0.0,,,Recife,Afogados,370.0
+979,For sale,3.0,120.0,,1500.0,Recife,Graças,390000.0
+980,,,2300.0,,,Paulista,Tabajara,70000.0
+981,For sale,3.0,56.0,,1.0,São Lourenço da Mata,Pixete,141000.0
+982,For sale,3.0,370.0,5.0,0.0,Recife,Iputinga,1000000.0
+983,For rent,,41.0,,0.0,Recife,Boa Vista,1350.0
+984,For sale,2.0,44.0,,175.0,Jaboatão dos Guararapes,Barra de Jangada,90000.0
+985,For sale,2.0,47.0,,450.0,Recife,Várzea,250000.0
+986,For sale,4.0,120.0,2.0,900.0,Gravatá,Ebenezer,320000.0
+987,,,190.0,,0.0,Abreu e Lima,Centro,1150000.0
+988,For sale,2.0,56.0,,,Recife,Iputinga,310012.0
+989,For rent,3.0,70.0,,0.0,Recife,Madalena,2000.0
+990,For sale,3.0,0.0,,,Recife,Cordeiro,215000.0
+991,For sale,3.0,120.0,,650.0,Recife,Boa Viagem,600000.0
+992,For sale,2.0,47.0,,160.0,Jaboatão dos Guararapes,Dois Carneiros,138000.0
+993,For sale,4.0,125.0,,0.0,Recife,Boa Viagem,1400000.0
+994,For sale,2.0,54.0,,0.0,Jaboatão dos Guararapes,Barra de Jangada,430000.0
+995,For sale,4.0,140.0,3.0,0.0,Recife,Ilha do Retiro,850000.0
+996,For sale,3.0,171.0,3.0,0.0,Recife,Monteiro,1900000.0
+997,For rent,4.0,400.0,5.0,0.0,Recife,Hipódromo,8500.0
+998,For sale,4.0,125.0,,0.0,Recife,Boa Viagem,1400000.0
+999,For sale,2.0,54.0,,0.0,Jaboatão dos Guararapes,Barra de Jangada,430000.0
+1000,For sale,4.0,140.0,3.0,0.0,Recife,Ilha do Retiro,850000.0
+1001,For sale,3.0,171.0,3.0,0.0,Recife,Monteiro,1900000.0
+1002,For rent,4.0,400.0,5.0,0.0,Recife,Hipódromo,8500.0
+1003,For sale,2.0,50.0,,200.0,Recife,Tamarineira,200000.0
+1004,For sale,2.0,42.0,,,Recife,Casa Forte,178995.0
+1005,For sale,3.0,75.0,,,Recife,Torre,415012.0
+1006,For sale,2.0,45.0,,,Recife,Torre,286995.0
+1007,For sale,3.0,92.0,2.0,0.0,Recife,Boa Viagem,1080000.0
+1008,For sale,3.0,150.0,3.0,1300.0,Recife,Jaqueira,890000.0
+1009,,,162.0,,0.0,Recife,Pina,18500.0
+1010,For sale,3.0,75.0,,1050.0,Recife,Boa Viagem,410000.0
+1011,For sale,2.0,59.0,,0.0,Recife,Boa Viagem,560000.0
+1012,For sale,2.0,47.0,,1.0,São Lourenço da Mata,Muribara,133999.0
+1013,For sale,2.0,46.0,,,Jaboatão dos Guararapes,Candeias,155999.0
+1014,For sale,2.0,42.0,,80.0,Paulista,Maranguape I,112540.0
+1015,For sale,2.0,52.0,,0.0,Paulista,Nossa Senhora do Ó,140000.0
+1016,For sale,,34.0,,379.0,Olinda,Jardim Atlântico,175000.0
+1017,For sale,,37.0,,895.0,Jaboatão dos Guararapes,Piedade,175000.0
+1018,For rent,2.0,50.0,,,Recife,Poço,2600.0
+1019,For sale,4.0,147.0,2.0,1250.0,Recife,Parnamirim,649000.0
+1020,For sale,2.0,46.0,,100.0,Jaboatão dos Guararapes,Candeias,149998.0
+1021,For sale,2.0,47.0,,0.0,Recife,Boa Viagem,330000.0
+1022,For rent,3.0,108.0,,0.0,Recife,Graças,2700.0
+1023,For sale,3.0,107.0,2.0,0.0,Recife,Boa Viagem,900000.0
+1024,For sale,2.0,57.0,,630.0,Recife,Pina,530000.0
+1025,For sale,2.0,72.0,,846.0,Gravatá,Gravatá Centro,440000.0
+1026,For sale,2.0,44.0,,520.0,Recife,Pina,678429.0
+1027,For rent,3.0,,4.0,,Recife,Várzea,1200.0
+1028,For rent,2.0,54.0,,,Paulista,Mirueira,820.0
+1029,For sale,3.0,145.0,,0.0,Jaboatão dos Guararapes,Piedade,365000.0
+1030,,,30.0,,0.0,Recife,Boa Viagem,1500.0
+1031,For sale,4.0,172.0,3.0,1400.0,Recife,Monteiro,1550000.0
+1032,For sale,,30.0,,0.0,Jaboatão dos Guararapes,Piedade,299999.0
+1033,For rent,3.0,90.0,,0.0,Recife,Boa Viagem,2600.0
+1034,For sale,3.0,103.0,3.0,780.0,Jaboatão dos Guararapes,Candeias,440000.0
+1035,For sale,2.0,43.0,,,Recife,Torre,290012.0
+1036,For sale,4.0,220.0,3.0,0.0,Recife,Tamarineira,2400000.0
+1037,For rent,,41.0,,0.0,Recife,Pina,2200.0
+1038,For rent,,35.0,,0.0,Jaboatão dos Guararapes,Barra de Jangada,1800.0
+1039,For sale,3.0,72.0,,,Recife,Boa Viagem,570000.0
+1040,For sale,4.0,130.0,2.0,0.0,Recife,Rosarinho,750000.0
+1041,For sale,,30.0,,0.0,Recife,Imbiribeira,230000.0
+1042,,,2200.0,,3400.0,Jaboatão dos Guararapes,Guararapes,24000.0
+1043,For rent,3.0,360.0,,0.0,Jaboatão dos Guararapes,Piedade,8000.0
+1044,For rent,,,,,Jaboatão dos Guararapes,Cavaleiro,500.0
+1045,For rent,4.0,0.0,3.0,,Recife,Boa Viagem,8300.0
+1046,For sale,,26.0,,20.0,Ipojuca,Porto de Galinhas,230000.0
+1047,For sale,3.0,86.0,2.0,0.0,Recife,Boa Viagem,895000.0
+1048,For sale,2.0,47.0,,1.0,Abreu e Lima,Planalto,125060.0
+1049,For rent,2.0,93.0,,0.0,Recife,Boa Viagem,2600.0
+1050,,,360.0,,,Cabo de Santo Agostinho,Santo Inácio,250000.0
+1051,For sale,,20.0,,2.0,Ipojuca,Porto de Galinhas,170000.0
+1052,For rent,3.0,71.0,,0.0,Recife,Madalena,2900.0
+1053,For sale,2.0,57.0,,450.0,Recife,Torreão,339000.0
+1054,For sale,5.0,1000.0,4.0,0.0,Gravatá,Alpes Suiços,2990000.0
+1055,For sale,2.0,50.0,,1.0,Jaboatão dos Guararapes,Candeias,166030.0
+1056,For sale,2.0,70.0,,350.0,Recife,Várzea,185000.0
+1057,For sale,,52.0,,320.0,Recife,Ilha do Leite,200000.0
+1058,For sale,,44.0,,0.0,Recife,Paissandu,350000.0
+1059,For sale,3.0,80.0,,700.0,Recife,Graças,475000.0
+1060,For sale,2.0,45.0,,1.0,Jaboatão dos Guararapes,Candeias,181000.0
+1061,For sale,2.0,65.0,,618.0,Recife,Encruzilhada,230000.0
+1062,For sale,3.0,61.0,,0.0,Recife,Encruzilhada,436000.0
+1063,For sale,,39.0,,829.0,Recife,Pina,420000.0
+1064,For sale,3.0,131.0,2.0,1270.0,Recife,Boa Viagem,700000.0
+1065,For sale,2.0,55.0,,0.0,Recife,Várzea,351000.0
+1066,,,30.0,,,Caruaru,Salgado,700.0
+1067,For sale,4.0,112.0,,700.0,Olinda,Bairro Novo,330000.0
+1068,For sale,2.0,43.0,,1.0,Paulista,Pau Amarelo,160900.0
+1069,For sale,4.0,208.0,4.0,,Paulista,Janga,900000.0
+1070,For sale,4.0,236.0,2.0,2212.0,Recife,Boa Viagem,950000.0
+1071,For sale,,32.0,,20.0,Recife,Rosarinho,248300.0
+1072,For sale,2.0,61.0,,600.0,Recife,Casa Amarela,380000.0
+1073,For rent,2.0,53.0,,0.0,Jaboatão dos Guararapes,Piedade,2500.0
+1074,,,150.0,,0.0,Recife,Boa Vista,4000.0
+1075,For sale,3.0,110.0,,1050.0,Recife,Boa Viagem,460000.0
+1076,For sale,3.0,92.0,,755.0,Recife,Campo Grande,315000.0
+1077,,,154.0,,0.0,Caruaru,Divinópolis,2000.0
+1078,For sale,2.0,59.0,,335.0,Recife,Água Fria,250000.0
+1079,For sale,2.0,,,,Gravatá,Cruzeiro,163000.0
+1080,For sale,3.0,69.0,,400.0,Recife,Madalena,470000.0
+1081,For sale,2.0,47.0,,212.0,Recife,Campo Grande,250000.0
+1082,For sale,3.0,147.0,2.0,0.0,Recife,Aflitos,420000.0
+1083,For sale,2.0,62.0,,336.0,Jaboatão dos Guararapes,Piedade,350000.0
+1084,For sale,,32.0,,,Recife,Boa Vista,105000.0
+1085,,,87.0,,,Recife,Boa Viagem,3000.0
+1086,,,10.0,,,Recife,Boa Vista,1000.0
+1087,For sale,2.0,50.0,,0.0,Paulista,Janga,125000.0
+1088,For sale,2.0,42.0,,1.0,Recife,Vasco da Gama,156900.0
+1089,For sale,4.0,135.0,2.0,0.0,Recife,Ilha do Retiro,919638.0
+1090,For sale,,34.0,,429.0,Recife,Boa Vista,195000.0
+1091,For sale,4.0,296.0,3.0,0.0,Recife,Iputinga,480000.0
+1092,For sale,,18.0,,0.0,Recife,Boa Viagem,219000.0
+1093,For sale,3.0,102.0,,825.0,Recife,Prado,480000.0
+1094,For sale,2.0,42.0,,1.0,Paulista,Maranguape I,142500.0
+1095,For sale,2.0,42.0,,1.0,Camaragibe,Estação Nova,136090.0
+1096,For sale,2.0,41.0,,1.0,Camaragibe,Alberto Maia,168000.0
+1097,For sale,2.0,43.0,,1.0,Recife,Várzea,159999.0
+1098,For sale,2.0,45.0,,1.0,Camaragibe,Santa Mônica,156999.0
+1099,For sale,3.0,56.0,,1.0,Camaragibe,Santa Mônica,179050.0
+1100,For sale,,30.0,,,Recife,Cordeiro,0.0
+1101,For sale,4.0,187.0,2.0,1993.0,Recife,Boa Viagem,819900.0
+1102,,,1290.0,,0.0,Paulista,Pau Amarelo,1100000.0
+1103,For sale,4.0,144.0,2.0,1000.0,Recife,Espinheiro,1000000.0
+1104,For sale,4.0,406.0,4.0,0.0,Recife,Boa Viagem,4397000.0
+1105,For sale,3.0,,,,Gravatá,Cruzeiro,225000.0
+1106,For sale,2.0,46.0,,1.0,São Lourenço da Mata,Muribara,128999.0
+1107,For sale,2.0,47.0,,1.0,Olinda,Rio Doce,186091.0
+1108,For sale,,30.0,,,Recife,Torre,0.0
+1109,For sale,2.0,50.0,,0.0,Paulista,Pau Amarelo,129990.0
+1110,For sale,,30.0,,,Recife,Graças,0.0
+1111,For sale,2.0,43.0,,1.0,Camaragibe,Alberto Maia,142000.0
+1112,For sale,2.0,49.0,,1.0,Olinda,Rio Doce,157080.0
+1113,For sale,,30.0,,,Recife,Casa Amarela,0.0
+1114,For sale,,30.0,,,Olinda,Bairro Novo,0.0
+1115,For sale,3.0,84.0,2.0,0.0,Recife,Rosarinho,748500.0
+1116,For sale,,30.0,,,Olinda,Casa Caiada,0.0
+1117,For sale,,30.0,,,Paulista,Maria Farinha,0.0
+1118,For sale,,30.0,,,Abreu e Lima,Centro,0.0
+1119,For sale,,30.0,,,Abreu e Lima,Timbó,0.0
+1120,For sale,2.0,43.0,,200.0,Jaboatão dos Guararapes,Piedade,169800.0
+1121,For rent,2.0,45.0,2.0,0.0,Olinda,Peixinhos,1000.0
+1122,,,550.0,,0.0,Gravatá,Prado,8000.0
+1123,,,27.0,,400.0,Recife,Casa Forte,1560.0
+1124,,,30000.0,,0.0,Vitória de Santo Antão,Redenção,530000.0
+1125,For sale,3.0,68.0,,543.0,Recife,Pina,399000.0
+1126,For sale,2.0,55.0,,0.0,Olinda,Casa Caiada,350000.0
+1127,For sale,4.0,147.0,2.0,,Gravatá,Alpes Suiços,344000.0
+1128,For sale,2.0,58.0,,550.0,Recife,Boa Viagem,390000.0
+1129,For sale,5.0,450.0,2.0,0.0,Paulista,Maria Farinha,980000.0
+1130,For sale,4.0,130.0,2.0,880.0,Jaboatão dos Guararapes,Piedade,950000.0
+1131,For sale,4.0,130.0,2.0,880.0,Jaboatão dos Guararapes,Piedade,950000.0
+1132,For sale,2.0,43.0,,20.0,Jaboatão dos Guararapes,Barra de Jangada,142500.0
+1133,For rent,2.0,46.0,,,Paulista,Maranguape II,350.0
+1134,For sale,3.0,180.0,,0.0,Recife,Monteiro,1520000.0
+1135,For sale,2.0,,,,Gravatá,Cruzeiro,135000.0
+1136,For sale,3.0,91.0,2.0,715.0,Recife,Boa Viagem,470000.0
+1137,For sale,3.0,64.0,,400.0,Recife,Madalena,420000.0
+1138,For sale,3.0,80.0,2.0,0.0,Recife,Boa Viagem,520000.0
+1139,,,230.0,,0.0,Jaboatão dos Guararapes,Marcos Freire,320000.0
+1140,,,360.0,,,Gravatá,Porta Florada,5997900.0
+1141,For sale,4.0,114.0,2.0,1100.0,Recife,Rosarinho,780000.0
+1142,For sale,,1.0,,20.0,Paulista,Maranguape I,123000.0
+1143,,,144.0,,0.0,Recife,Bomba do Hemetério,18000.0
+1144,For sale,2.0,62.0,,,Recife,Encruzilhada,360000.0
+1145,For sale,2.0,55.0,,250.0,Jaboatão dos Guararapes,Candeias,125000.0
+1146,For sale,3.0,105.0,2.0,790.0,Jaboatão dos Guararapes,Candeias,550000.0
+1147,,,49.0,,987.0,Recife,Graças,595000.0
+1148,For rent,,35.0,,0.0,Recife,Rosarinho,2500.0
+1149,,,1015.0,,924.0,Jaboatão dos Guararapes,Manassu,350000.0
+1150,For sale,4.0,225.0,3.0,1350.0,Recife,Boa Viagem,1098000.0
+1151,For sale,3.0,82.0,2.0,700.0,Recife,Boa Viagem,600000.0
+1152,For sale,2.0,60.0,,290.0,Caruaru,Maurício de Nassau,290000.0
+1153,For sale,,42.0,,20.0,Camaragibe,Celeiro das Alegrias Futuras,123000.0
+1154,For sale,4.0,200.0,2.0,300.0,Gravatá,Santana,450000.0
+1155,For sale,4.0,643.0,3.0,1350.0,Recife,Jaqueira,2200000.0
+1156,For sale,3.0,90.0,2.0,0.0,Recife,Boa Viagem,828000.0
+1157,For sale,,34.0,,0.0,Recife,Ilha do Leite,315000.0
+1158,For sale,3.0,121.0,,1150.0,Recife,Aflitos,650000.0
+1159,,,132.0,,1900.0,Recife,Boa Viagem,3936.0
+1160,For sale,2.0,44.0,,2.0,Jaboatão dos Guararapes,Candeias,170000.0
+1161,For sale,4.0,250.0,3.0,0.0,Recife,Pina,3700000.0
+1162,For sale,2.0,48.0,,0.0,Igarassu,Agamenon Magalhães,130000.0
+1163,For sale,2.0,50.0,,0.0,Abreu e Lima,Desterro,145000.0
+1164,For sale,4.0,170.0,2.0,0.0,Recife,Boa Viagem,900000.0
+1165,For sale,4.0,124.0,3.0,0.0,Recife,Boa Viagem,1300000.0
+1166,For sale,2.0,41.0,,170.0,Camaragibe,Timbí,122000.0
+1167,For sale,2.0,56.0,,,Recife,Caxangá,330000.0
+1168,For sale,4.0,130.0,2.0,,Recife,Boa Viagem,1150000.0
+1169,For rent,4.0,175.0,3.0,,Recife,Boa Viagem,7500.0
+1170,For sale,3.0,67.0,2.0,600.0,Jaboatão dos Guararapes,Piedade,0.0
+1171,For rent,5.0,176.0,4.0,0.0,Recife,Madalena,6000.0
+1172,For sale,3.0,0.0,,,Recife,Cordeiro,157000.0
+1173,For sale,3.0,90.0,,1030.0,Recife,Imbiribeira,490000.0
+1174,For sale,4.0,85.0,,90.0,Olinda,Casa Caiada,390000.0
+1175,For sale,2.0,56.0,,0.0,Olinda,Casa Caiada,390000.0
+1176,For sale,3.0,113.0,2.0,0.0,Cabo de Santo Agostinho,Paiva,960000.0
+1177,For sale,3.0,90.0,,700.0,Recife,Prado,420000.0
+1178,For rent,2.0,45.0,,0.0,Recife,Imbiribeira,1600.0
+1179,,,25.0,,430.0,Recife,Boa Viagem,1100.0
+1180,For sale,3.0,158.0,,400.0,Gravatá,Alpes Suiços,510000.0
+1181,For sale,4.0,215.0,4.0,2300.0,Recife,Monteiro,1650000.0
+1182,For sale,3.0,67.0,2.0,600.0,Jaboatão dos Guararapes,Piedade,229000.0
+1183,For sale,4.0,135.0,2.0,1.0,Recife,Ilha do Retiro,1000000.0
+1184,For sale,3.0,100.0,,,Recife,Arruda,155000.0
+1185,For sale,4.0,170.0,3.0,0.0,Recife,Boa Viagem,1900000.0
+1186,For sale,3.0,68.0,2.0,0.0,Recife,Boa Viagem,555000.0
+1187,For sale,3.0,70.0,,0.0,Recife,Várzea,500000.0
+1188,For sale,3.0,109.0,2.0,0.0,Recife,Imbiribeira,1000000.0
+1189,For rent,3.0,106.0,2.0,0.0,Recife,Boa Viagem,3200.0
+1190,,,200.0,,0.0,São Lourenço da Mata,Centro,5000.0
+1191,,,2780.0,,500.0,Gravatá,Ebenezer,170000.0
+1192,For sale,4.0,130.0,2.0,1000.0,Recife,Casa Amarela,780000.0
+1193,For sale,2.0,49.0,,,Jaboatão dos Guararapes,Candeias,200000.0
+1194,For sale,5.0,500.0,3.0,1900.0,Gravatá,Nossa Senhora das Graças,1200000.0
+1195,For sale,,34.0,,0.0,Recife,Boa Viagem,280000.0
+1196,,,240.0,,0.0,Recife,Ibura,70000.0
+1197,For sale,2.0,0.0,2.0,,Recife,Jardim São Paulo,170000.0
+1198,For sale,2.0,56.0,,0.0,Recife,Boa Viagem,610000.0
+1199,For sale,3.0,70.0,2.0,20.0,Recife,Várzea,570000.0
+1200,For sale,3.0,0.0,,,Jaboatão dos Guararapes,Candeias,163000.0
+1201,,,600.0,,250.0,Camaragibe,Aldeia dos Camarás,139000.0
+1202,For sale,4.0,159.0,4.0,0.0,Olinda,Casa Caiada,1200000.0
+1203,For sale,3.0,59.0,,500.0,Recife,Boa Viagem,419251.0
+1204,For sale,3.0,82.0,,0.0,Recife,Boa Viagem,390000.0
+1205,For sale,3.0,75.0,,800.0,Recife,Graças,340000.0
+1206,For sale,3.0,60.0,,465.0,Recife,Tamarineira,440000.0
+1207,For sale,3.0,99.0,2.0,700.0,Recife,Graças,250000.0
+1208,For rent,,50.0,,0.0,Recife,Boa Viagem,1550.0
+1209,For sale,5.0,578.0,,2800.0,Recife,Boa Viagem,2400000.0
+1210,For sale,2.0,47.0,,,Paulista,Centro,155000.0
+1211,For sale,,67.0,,1400.0,Recife,Boa Viagem,490000.0
+1212,For sale,2.0,42.0,,2.0,Recife,Iputinga,229500.0
+1213,For sale,3.0,95.0,2.0,0.0,Jaboatão dos Guararapes,Candeias,295000.0
+1214,For rent,3.0,100.0,2.0,0.0,Recife,Madalena,4300.0
+1215,For sale,4.0,300.0,3.0,1600.0,Recife,Graças,1500000.0
+1216,For sale,2.0,47.0,,674.0,Recife,Tamarineira,390000.0
+1217,For sale,2.0,42.0,,20.0,Recife,Imbiribeira,229000.0
+1218,For rent,2.0,56.0,,311.0,Recife,Boa Viagem,2800.0
+1219,For sale,5.0,268.0,4.0,0.0,Paulista,Janga,350000.0
+1220,For sale,4.0,130.0,2.0,0.0,Recife,Pina,1531178.0
+1221,For sale,2.0,47.0,,674.0,Recife,Tamarineira,390000.0
+1222,For sale,2.0,42.0,,20.0,Recife,Imbiribeira,229000.0
+1223,For rent,2.0,56.0,,311.0,Recife,Boa Viagem,2800.0
+1224,For sale,5.0,268.0,4.0,0.0,Paulista,Janga,350000.0
+1225,For sale,4.0,130.0,2.0,0.0,Recife,Pina,1531178.0
+1226,For sale,4.0,224.0,3.0,2260.0,Recife,Boa Viagem,1600000.0
+1227,For sale,4.0,125.0,3.0,,Gravatá,Gravatá Centro,350000.0
+1228,,5.0,,5.0,,Gravatá,Ebenezer,
+1229,For sale,2.0,51.0,,0.0,Recife,Boa Viagem,330000.0
+1230,For sale,2.0,45.0,,2.0,Recife,Boa Vista,320000.0
+1231,For sale,3.0,0.0,,,Jaboatão dos Guararapes,Candeias,330000.0
+1232,For sale,3.0,125.0,2.0,,Recife,Boa Viagem,790000.0
+1233,For sale,3.0,158.0,2.0,,Recife,Boa Viagem,730000.0
+1234,For sale,3.0,97.0,,0.0,Recife,Madalena,690000.0
+1235,For sale,2.0,64.0,,400.0,Recife,Iputinga,230000.0
+1236,For sale,2.0,51.0,,0.0,Recife,Iputinga,291900.0
+1237,For sale,5.0,575.0,5.0,1100.0,Gravatá,Porta Florada,2990000.0
+1238,For sale,,40.0,,300.0,Recife,Boa Vista,145000.0
+1239,For rent,,35.0,,315.0,Recife,Espinheiro,1780.0
+1240,For sale,,30.0,,20.0,Ipojuca,Porto de Galinhas,339000.0
+1241,For sale,3.0,80.0,,,Jaboatão dos Guararapes,Marcos Freire,230000.0
+1242,For sale,2.0,44.0,,0.0,Recife,Pina,670000.0
+1243,For sale,3.0,106.0,,0.0,Recife,Boa Viagem,1050000.0
+1244,For sale,3.0,80.0,2.0,0.0,Recife,Boa Viagem,550000.0
+1245,For sale,3.0,70.0,,,Recife,Cordeiro,445000.0
+1246,For sale,4.0,140.0,2.0,0.0,Recife,Boa Viagem,1345000.0
+1247,For sale,3.0,80.0,2.0,0.0,Recife,Boa Viagem,630000.0
+1248,For sale,4.0,140.0,2.0,750.0,Gravatá,Ebenezer,600000.0
+1249,For sale,,25.0,,20.0,Ipojuca,Porto de Galinhas,245600.0
+1250,For sale,2.0,45.0,,,Paulista,Nobre,154990.0
+1251,For sale,5.0,436.0,5.0,,Camaragibe,Aldeia dos Camarás,2100020.0
+1252,For sale,2.0,78.0,,300.0,Jaboatão dos Guararapes,Piedade,350000.0
+1253,For sale,3.0,73.0,,,Jaboatão dos Guararapes,Candeias,150000.0
+1254,For sale,3.0,154.0,2.0,1320000.0,Recife,Boa Viagem,890000.0
+1255,For sale,,33.0,,472.0,Recife,Parnamirim,390000.0
+1256,For rent,,16.0,,0.0,Recife,Pina,1400.0
+1257,For rent,2.0,,,,Recife,Mustardinha,370.0
+1258,For sale,,22.0,,2.0,Ipojuca,Porto de Galinhas,255900.0
+1259,For sale,3.0,120.0,2.0,1000.0,Recife,Boa Viagem,930000.0
+1260,For sale,4.0,324.0,3.0,0.0,Recife,Madalena,900000.0
+1261,For sale,3.0,160.0,2.0,0.0,Recife,Boa Viagem,1750000.0
+1262,,,26.0,,500.0,Recife,Tamarineira,220000.0
+1263,For sale,3.0,62.0,,450.0,Recife,Prado,395000.0
+1264,For sale,3.0,60.0,,0.0,Recife,Tamarineira,420000.0
+1265,For sale,3.0,120.0,,850.0,Recife,Espinheiro,399000.0
+1266,For sale,3.0,94.0,,900.0,Recife,Madalena,595000.0
+1267,For sale,4.0,250.0,,,Recife,Cordeiro,450000.0
+1268,For sale,2.0,43.0,,288.0,Recife,Iputinga,270000.0
+1269,For sale,3.0,200.0,5.0,0.0,Olinda,Bairro Novo,690000.0
+1270,For sale,5.0,388.0,5.0,0.0,Recife,Arruda,1600000.0
+1271,For sale,3.0,71.0,2.0,380.0,Jaboatão dos Guararapes,Piedade,380000.0
+1272,For sale,4.0,189.0,4.0,900.0,Camaragibe,Aldeia dos Camarás,899009.0
+1273,For sale,2.0,42.0,,,Jaboatão dos Guararapes,Socorro,
+1274,,,6500.0,,,Recife,Boa Viagem,15000000.0
+1275,For rent,3.0,84.0,,,Jaboatão dos Guararapes,Candeias,980.0
+1276,For sale,2.0,0.0,,,Paulista,Centro,169000.0
+1277,For sale,3.0,63.0,2.0,,Recife,Boa Viagem,599408.0
+1278,For sale,2.0,48.0,,0.0,Recife,Várzea,250000.0
+1279,For sale,3.0,141.0,2.0,,Recife,Casa Amarela,
+1280,For rent,2.0,51.0,,,Recife,Boa Viagem,2500.0
+1281,For sale,3.0,0.0,,,Jaboatão dos Guararapes,Candeias,215000.0
+1282,For sale,2.0,,,210.0,Jaboatão dos Guararapes,Candeias,30000.0
+1283,For sale,5.0,361.0,5.0,0.0,Jaboatão dos Guararapes,Piedade,1600000.0
+1284,For sale,3.0,110.0,,925.0,Recife,Madalena,350000.0
+1285,For sale,3.0,86.0,,690.0,Recife,Casa Amarela,480000.0
+1286,For sale,4.0,240.0,3.0,0.0,Recife,Boa Viagem,3200000.0
+1287,For rent,3.0,95.0,2.0,0.0,Jaboatão dos Guararapes,Candeias,2400.0
+1288,For sale,2.0,,,,Paulista,Nobre,55000.0
+1289,For sale,2.0,10.0,,0.0,Recife,Casa Amarela,347753.0
+1290,For sale,2.0,58.0,,400.0,Jaboatão dos Guararapes,Piedade,360000.0
+1291,For sale,4.0,103.0,2.0,250.0,Recife,Imbiribeira,230000.0
+1292,For sale,2.0,140.0,,400.0,Olinda,Rio Doce,249900.0
+1293,For sale,4.0,417.0,5.0,600.0,Camaragibe,Aldeia dos Camarás,1250006.0
+1294,For sale,,40.0,,0.0,Recife,Boa Vista,270000.0
+1295,,,20.0,,0.0,Recife,Boa Viagem,1200.0
+1296,For sale,4.0,125.0,2.0,0.0,Recife,Casa Amarela,686658.0
+1297,For sale,3.0,160.0,,0.0,Gravatá,Alpes Suiços,290000.0
+1298,For sale,3.0,105.0,2.0,790.0,Jaboatão dos Guararapes,Candeias,550000.0
+1299,For sale,4.0,168.0,,750.0,Recife,Boa Viagem,659000.0
+1300,For sale,4.0,330.0,4.0,2400.0,Recife,Jaqueira,1900000.0
+1301,For sale,2.0,58.0,,860.0,Recife,Jaqueira,750000.0
+1302,,,429.0,,8200.0,Recife,Boa Vista,10720.0
+1303,For sale,2.0,,,,Camaragibe,São João e São Paulo,85000.0
+1304,For rent,,34.0,,,Recife,Pina,1200.0
+1305,,,265.0,,0.0,Recife,Imbiribeira,770000.0
+1306,For rent,4.0,207.0,3.0,0.0,Recife,Santo Amaro,7342.0
+1307,For sale,2.0,64.0,,680.0,Recife,Aflitos,330000.0
+1308,For sale,3.0,80.0,2.0,900.0,Recife,Campo Grande,410000.0
+1309,For sale,,27.0,,202.0,Recife,Rosarinho,194500.0
+1310,For sale,2.0,,,,Camaragibe,São João e São Paulo,85000.0
+1311,For rent,,34.0,,,Recife,Pina,1200.0
+1312,,,265.0,,0.0,Recife,Imbiribeira,770000.0
+1313,For rent,4.0,207.0,3.0,0.0,Recife,Santo Amaro,7342.0
+1314,For sale,2.0,64.0,,680.0,Recife,Aflitos,330000.0
+1315,For sale,3.0,80.0,2.0,900.0,Recife,Campo Grande,410000.0
+1316,For sale,,27.0,,202.0,Recife,Rosarinho,194500.0
+1317,For sale,2.0,41.0,,0.0,Recife,Casa Amarela,328623.0
+1318,For sale,4.0,250.0,3.0,0.0,Recife,Casa Forte,1800000.0
+1319,For sale,3.0,78.0,,580.0,Recife,Bongi,380000.0
+1320,For sale,2.0,60.0,,,Olinda,Casa Caiada,238990.0
+1321,For sale,3.0,320.0,4.0,800.0,Camaragibe,Aldeia dos Camarás,1500000.0
+1322,For sale,4.0,110.0,2.0,900.0,Recife,Espinheiro,784000.0
+1323,For sale,,33.0,,,Abreu e Lima,Centro,0.0
+1324,,,30.0,,392.0,Recife,Boa Viagem,1100.0
+1325,For sale,,33.0,,,Abreu e Lima,Centro,0.0
+1326,For rent,2.0,49.0,,239.0,Jaboatão dos Guararapes,Engenho Velho,650.0
+1327,For sale,3.0,115.0,,650.0,Recife,Parnamirim,300000.0
+1328,For sale,3.0,70.0,,680.0,Recife,Tamarineira,349999.0
+1329,,,0.0,,,Recife,Passarinho,40000.0
+1330,For sale,,33.0,,,Paulista,Maria Farinha,0.0
+1331,,3.0,,5.0,,Recife,Boa Viagem,650.0
+1332,For sale,,33.0,,,Olinda,Bairro Novo,0.0
+1333,For sale,,33.0,,,Recife,Torre,0.0
+1334,For sale,,33.0,,,Recife,Caxangá,0.0
+1335,For sale,,33.0,,,Recife,Boa Viagem,0.0
+1336,For sale,,33.0,,,Recife,Espinheiro,0.0
+1337,For sale,3.0,80.0,,401.0,Recife,Iputinga,209500.0
+1338,For sale,3.0,0.0,,,Jaboatão dos Guararapes,Piedade,160000.0
+1339,For sale,,25.0,,20.0,Ipojuca,Porto de Galinhas,210000.0
+1340,For sale,,0.0,,,Camaragibe,Aldeia dos Camarás,1390000.0
+1341,For sale,3.0,129400.0,,,Olinda,Bairro Novo,280000.0
+1342,For sale,,25.0,,20.0,Ipojuca,Porto de Galinhas,220000.0
+1343,For sale,3.0,230.0,2.0,,Paulista,Janga,680000.0
+1344,For sale,3.0,142.0,2.0,0.0,Recife,Boa Viagem,870000.0
+1345,For sale,3.0,100.0,2.0,0.0,Recife,Boa Viagem,599900.0
+1346,,,35.0,,400.0,Recife,Espinheiro,2000.0
+1347,For sale,3.0,65.0,,0.0,Recife,Rosarinho,509000.0
+1348,For rent,3.0,80.0,,0.0,Recife,Várzea,1800.0
+1349,For sale,4.0,110.0,2.0,900.0,Recife,Espinheiro,0.0
+1350,For sale,3.0,200.0,,,Paulista,Tabajara,110000.0
+1351,For sale,2.0,,,,Olinda,Carmo,135000.0
+1352,For sale,4.0,145.0,3.0,,Recife,Boa Viagem,1750000.0
+1353,For sale,,25.0,,20.0,Ipojuca,Porto de Galinhas,210000.0
+1354,For sale,,0.0,,,Camaragibe,Aldeia dos Camarás,1390000.0
+1355,For sale,3.0,129400.0,,,Olinda,Bairro Novo,280000.0
+1356,For sale,,25.0,,20.0,Ipojuca,Porto de Galinhas,220000.0
+1357,For sale,3.0,230.0,2.0,,Paulista,Janga,680000.0
+1358,For sale,3.0,142.0,2.0,0.0,Recife,Boa Viagem,870000.0
+1359,For sale,3.0,100.0,2.0,0.0,Recife,Boa Viagem,599900.0
+1360,,,35.0,,400.0,Recife,Espinheiro,2000.0
+1361,For sale,3.0,65.0,,0.0,Recife,Rosarinho,509000.0
+1362,For rent,3.0,80.0,,0.0,Recife,Várzea,1800.0
+1363,For sale,4.0,110.0,2.0,900.0,Recife,Espinheiro,0.0
+1364,For sale,3.0,200.0,,,Paulista,Tabajara,110000.0
+1365,For sale,2.0,,,,Olinda,Carmo,135000.0
+1366,For sale,4.0,145.0,3.0,,Recife,Boa Viagem,1750000.0
+1367,For sale,3.0,86.0,2.0,700.0,Recife,Boa Viagem,920000.0
+1368,For rent,,35.0,,,Jaboatão dos Guararapes,Barra de Jangada,1600.0
+1369,For rent,3.0,184.0,,460.0,Jaboatão dos Guararapes,Piedade,2855.0
+1370,,,281.0,,4500.0,Recife,Boa Viagem,12000.0
+1371,For sale,3.0,140.0,,400.0,Gravatá,Gravatá Centro,300000.0
+1372,For rent,5.0,174.0,,0.0,Recife,Tamarineira,1250.0
+1373,For sale,2.0,,2.0,,Paulista,Maranguape II,160000.0
+1374,For rent,,,,,Paulista,Artur Lundgren I,450.0
+1375,For rent,3.0,,3.0,,Olinda,Ouro Preto,1100.0
+1376,For rent,2.0,,,,Jaboatão dos Guararapes,Prazeres,680.0
+1377,For sale,4.0,235.0,,,Caruaru,Indianópolis,460000.0
+1378,For sale,3.0,105.0,2.0,,Recife,Boa Viagem,800000.0
+1379,For sale,3.0,90.0,2.0,890.0,Jaboatão dos Guararapes,Piedade,545000.0
+1380,For sale,3.0,102.0,2.0,845.0,Recife,Boa Viagem,700000.0
+1381,For sale,4.0,,2.0,,Olinda,Carmo,700000.0
+1382,For sale,3.0,90.0,,750.0,Recife,Boa Viagem,370000.0
+1383,For sale,3.0,87.0,,450.0,Olinda,Casa Caiada,370000.0
+1384,For sale,3.0,140.0,3.0,800.0,Recife,Casa Amarela,1100000.0
+1385,For sale,3.0,93.0,2.0,850.0,Recife,Casa Amarela,570000.0
+1386,For sale,5.0,248.0,5.0,700.0,Camaragibe,Aldeia dos Camarás,1100000.0
+1387,For sale,3.0,95.0,,250.0,Olinda,Jardim Atlântico,220000.0
+1388,For sale,2.0,60.0,,0.0,Olinda,Jardim Atlântico,165000.0
+1389,For sale,3.0,74.0,,0.0,Olinda,Casa Caiada,300000.0
+1390,For sale,2.0,59.0,,510.0,Recife,Boa Viagem,360000.0
+1391,For sale,3.0,150.0,2.0,940.0,Recife,Boa Viagem,730000.0
+1392,For sale,5.0,180.0,4.0,300.0,Gravatá,Nossa Senhora das Graças,650000.0
+1393,For sale,4.0,323.0,3.0,1900.0,Recife,Boa Viagem,3500000.0
+1394,For sale,4.0,134.0,2.0,,Recife,Madalena,1200000.0
+1395,For sale,4.0,190.0,3.0,0.0,Cabo de Santo Agostinho,Paiva,2495000.0
+1396,For sale,3.0,66.0,,700.0,Recife,Boa Viagem,379000.0
+1397,For sale,3.0,150.0,2.0,940.0,Recife,Boa Viagem,730000.0
+1398,For sale,5.0,180.0,4.0,300.0,Gravatá,Nossa Senhora das Graças,650000.0
+1399,For sale,4.0,323.0,3.0,1900.0,Recife,Boa Viagem,3500000.0
+1400,For sale,4.0,134.0,2.0,,Recife,Madalena,1200000.0
+1401,For sale,4.0,190.0,3.0,0.0,Cabo de Santo Agostinho,Paiva,2495000.0
+1402,For sale,3.0,66.0,,700.0,Recife,Boa Viagem,379000.0
+1403,For sale,4.0,106.0,,900.0,Recife,Graças,515000.0
+1404,For rent,2.0,45.0,,,Jaboatão dos Guararapes,Santana,900.0
+1405,,,280.0,,,Gravatá,Nossa Senhora das Graças,950000.0
+1406,For sale,3.0,0.0,,,Jaboatão dos Guararapes,Piedade,300000.0
+1407,For sale,4.0,570.0,4.0,1000.0,Camaragibe,Aldeia dos Camarás,1200000.0
+1408,For rent,,40.0,,,Recife,Boa Viagem,1800.0
+1409,For sale,,35.0,,500.0,Recife,Boa Viagem,219000.0
+1410,For sale,3.0,69.0,,500.0,Olinda,Rio Doce,260000.0
+1411,For sale,3.0,90.0,2.0,550.0,Recife,Torre,360000.0
+1412,For sale,3.0,114.0,3.0,,Olinda,Bairro Novo,329000.0
+1413,For sale,3.0,79.0,,550.0,Recife,Madalena,465000.0
+1414,For rent,4.0,134.0,3.0,0.0,Jaboatão dos Guararapes,Candeias,8000.0
+1415,For sale,3.0,200.0,3.0,0.0,Recife,Ipsep,580000.0
+1416,For sale,5.0,260.0,5.0,0.0,Recife,Parnamirim,1400000.0
+1417,,,1100.0,,,Igarassu,Monjope,55000.0
+1418,,,2000.0,,,Jaboatão dos Guararapes,Guararapes,
+1419,For sale,3.0,170.0,,700.0,Recife,Boa Viagem,590000.0
+1420,For sale,2.0,53.0,,580.0,Recife,Boa Viagem,450000.0
+1421,For rent,3.0,64.0,,0.0,Olinda,Casa Caiada,2499.0
+1422,For rent,3.0,130.0,,0.0,Recife,Boa Viagem,4000.0
+1423,,,375.0,,1500.0,Camaragibe,Aldeia dos Camarás,180000.0
+1424,For sale,4.0,152.0,2.0,11.0,Recife,Boa Viagem,1620000.0
+1425,For sale,4.0,300.0,2.0,1800.0,Jaboatão dos Guararapes,Piedade,1850000.0
+1426,For rent,2.0,62.0,,0.0,Recife,Boa Viagem,4700.0
+1427,For rent,2.0,60.0,,0.0,Recife,Ponto de Parada,2500.0
+1428,For sale,3.0,86.0,2.0,0.0,Recife,Boa Viagem,819653.0
+1429,For sale,4.0,185.0,2.0,0.0,Caruaru,Nova Caruaru,500000.0
+1430,For sale,2.0,62.0,,600.0,Recife,Graças,400000.0
+1431,For rent,4.0,251.0,4.0,,Cabo de Santo Agostinho,Paiva,15000.0
+1432,For sale,3.0,105.0,2.0,790.0,Jaboatão dos Guararapes,Candeias,550000.0
+1433,For sale,3.0,105.0,2.0,790.0,Jaboatão dos Guararapes,Candeias,550000.0
+1434,For sale,3.0,70.0,2.0,0.0,Recife,Boa Vista,525000.0
+1435,For sale,3.0,72.0,,575.0,Recife,Iputinga,400000.0
+1436,For rent,3.0,100.0,2.0,0.0,Recife,Madalena,4300.0
+1437,For sale,4.0,350.0,4.0,700.0,Camaragibe,Aldeia dos Camarás,1099000.0
+1438,For sale,3.0,0.0,,,Jaboatão dos Guararapes,Piedade,190000.0
+1439,For sale,3.0,62.0,2.0,0.0,Jaboatão dos Guararapes,Piedade,400000.0
+1440,For sale,4.0,240.0,,1298.0,Recife,Boa Viagem,959000.0
+1441,For sale,4.0,204.0,3.0,0.0,Recife,Jaqueira,1800000.0
+1442,,,143.0,,0.0,Recife,Ipsep,4500.0
+1443,For sale,4.0,157.0,3.0,1600.0,Recife,Boa Viagem,1300000.0
+1444,For sale,3.0,97.0,2.0,0.0,Cabo de Santo Agostinho,Paiva,780000.0
+1445,For sale,4.0,350.0,4.0,800.0,Camaragibe,Aldeia dos Camarás,949900.0
+1446,For rent,5.0,345.0,5.0,,Jaboatão dos Guararapes,Piedade,8000.0
+1447,For sale,5.0,450.0,3.0,1.0,Jaboatão dos Guararapes,Candeias,738000.0
+1448,For sale,2.0,51.0,2.0,0.0,Recife,Torre,391000.0
+1449,For sale,2.0,58.0,,495.0,Recife,Encruzilhada,494000.0
+1450,For sale,3.0,160.0,2.0,1100.0,Recife,Boa Viagem,850000.0
+1451,,,0.0,,2950.0,Paulista,Janga,56000.0
+1452,For sale,2.0,49.0,,0.0,Recife,Casa Amarela,360000.0
+1453,For sale,4.0,136.0,2.0,1050.0,Recife,Boa Viagem,1250000.0
+1454,,,832.0,,,Recife,Brejo da Guabiraba,100000.0
+1455,For sale,3.0,66.0,,400.0,Jaboatão dos Guararapes,Candeias,400000.0
+1456,For sale,3.0,136.0,2.0,900.0,Recife,Espinheiro,949900.0
+1457,For sale,4.0,240.0,3.0,1500.0,Recife,Boa Viagem,1700000.0
+1458,,,20.0,,0.0,Olinda,Peixinhos,35000.0
+1459,For sale,2.0,44.0,,400.0,Recife,Boa Viagem,359000.0
+1460,For sale,4.0,186.0,2.0,1150.0,Recife,Casa Amarela,900000.0
+1461,,,960.0,,0.0,Jaboatão dos Guararapes,Prazeres,6000.0
+1462,,,950.0,,0.0,Recife,Ipsep,11000.0
+1463,For sale,2.0,79.0,,437.0,Recife,Boa Viagem,250000.0
+1464,For sale,3.0,92.0,3.0,600.0,Recife,Boa Viagem,1200000.0
+1465,For sale,4.0,181.0,3.0,0.0,Cabo de Santo Agostinho,Paiva,1452000.0
+1466,,,58.0,,498.0,Recife,Santo Antônio,1192.0
+1467,,,2200.0,,0.0,Jaboatão dos Guararapes,Guararapes,33000.0
+1468,,,1200.0,,0.0,Recife,Jordão,2500000.0
+1469,For sale,2.0,0.0,,,Paulista,Pau Amarelo,219000.0
+1470,For sale,2.0,50.0,,720.0,Recife,Aflitos,320000.0
+1471,For sale,3.0,81.0,2.0,481.0,Recife,Boa Viagem,750000.0
+1472,For sale,,41.0,,,Olinda,Casa Caiada,350000.0
+1473,For sale,2.0,52.0,,415.0,Recife,Boa Viagem,300000.0
+1474,For sale,3.0,150.0,,0.0,Gravatá,Santana,350000.0
+1475,For rent,,26.0,,0.0,Recife,Cordeiro,550.0
+1476,For sale,,36.0,,360.0,Recife,Graças,340000.0
+1477,For sale,3.0,86.0,2.0,0.0,Recife,Boa Viagem,916835.0
+1478,For sale,4.0,360.0,3.0,0.0,Recife,Boa Viagem,3600000.0
+1479,For sale,3.0,75.0,,550.0,Recife,Madalena,420000.0
+1480,For sale,3.0,89.0,2.0,800.0,Recife,Madalena,640000.0
+1481,For sale,2.0,70.0,2.0,2800.0,Gravatá,Alpes Suiços,600000.0
+1482,For sale,2.0,454.0,,0.0,Recife,Torre,350000.0
+1483,For sale,3.0,104.0,,750.0,Recife,Boa Viagem,350000.0
+1484,,,330.0,,,Recife,Boa Viagem,6000.0
+1485,For sale,2.0,60.0,,140.0,Caruaru,Indianópolis,140000.0
+1486,For rent,3.0,100.0,2.0,0.0,Recife,Madalena,4300.0
+1487,For sale,2.0,43.0,,30.0,Recife,Várzea,158700.0
+1488,For sale,3.0,116.0,2.0,700.0,Olinda,Casa Caiada,630000.0
+1489,For sale,,39.0,,390.0,Jaboatão dos Guararapes,Candeias,280000.0
+1490,For sale,4.0,300.0,4.0,0.0,Caruaru,Nova Caruaru,2000000.0
+1491,For sale,2.0,49.0,,0.0,Recife,Madalena,264000.0
+1492,For sale,3.0,110.0,,500.0,Recife,Santo Amaro,360000.0
+1493,For sale,3.0,65.0,,640.0,Recife,Boa Viagem,300000.0
+1494,For sale,4.0,180.0,2.0,1700.0,Recife,Espinheiro,600000.0
+1495,For sale,,,,2.0,Ipojuca,Porto de Galinhas,289900.0
+1496,For sale,2.0,109.0,2.0,0.0,Paulista,Nossa Senhora da Conceição,220000.0
+1497,For sale,3.0,100.0,2.0,780.0,Recife,Boa Viagem,699000.0
+1498,For sale,2.0,50.0,,0.0,Paulista,Janga,200000.0
+1499,For sale,2.0,46.0,,400.0,Recife,Imbiribeira,240000.0
+1500,,,275.0,,0.0,Gravatá,Gravatá Centro,85000.0
+1501,,,0.0,,,Gravatá,Gravatá Centro,1500000.0
+1502,For sale,4.0,246.0,2.0,400.0,Gravatá,Gravatá Centro,590000.0
+1503,For sale,2.0,70.0,,700.0,Recife,Boa Viagem,335000.0
+1504,For rent,3.0,10.0,2.0,0.0,Recife,Santana,4000.0
+1505,,,136.0,,1499.0,Recife,Boa Viagem,6000.0
+1506,For sale,3.0,145.0,,1026.0,Recife,Espinheiro,650000.0
+1507,For sale,3.0,80.0,,0.0,Jaboatão dos Guararapes,Candeias,390000.0
+1508,For sale,4.0,181.0,2.0,1200.0,Recife,Graças,800000.0
+1509,For sale,,30.0,,0.0,Jaboatão dos Guararapes,Candeias,180000.0
+1510,For sale,,28.0,,420.0,Recife,Boa Viagem,160000.0
+1511,For sale,3.0,120.0,,0.0,Jaboatão dos Guararapes,Guararapes,180000.0
+1512,For sale,3.0,120.0,2.0,0.0,Jaboatão dos Guararapes,Centro,850000.0
+1513,For sale,,26.0,,20.0,Recife,Rosarinho,199000.0
+1514,For sale,2.0,90.0,,200.0,Jaboatão dos Guararapes,Candeias,130000.0
+1515,For sale,3.0,120.0,,800.0,Jaboatão dos Guararapes,Piedade,280000.0
+1516,For sale,3.0,138.0,,1440.0,Recife,Boa Viagem,680000.0
+1517,,,678.0,,0.0,Cabo de Santo Agostinho,Paiva,659000.0
+1518,For rent,3.0,88.0,2.0,0.0,Recife,Madalena,3000.0
+1519,For sale,2.0,71.0,,500.0,Jaboatão dos Guararapes,Piedade,220000.0
+1520,For sale,5.0,229.0,2.0,1469.0,Recife,Boa Viagem,1200000.0
+1521,For sale,3.0,100.0,,750.0,Recife,Boa Viagem,380000.0
+1522,For sale,3.0,,,,Recife,Cordeiro,430000.0
+1523,For sale,3.0,,,,Recife,Cordeiro,430000.0
+1524,For sale,,48.0,,780.0,Recife,Boa Viagem,210000.0
+1525,For rent,2.0,45.0,,1.0,Jaboatão dos Guararapes,Curado,980.0
+1526,For sale,2.0,45.0,,0.0,Jaboatão dos Guararapes,Curado,157000.0
+1527,For sale,2.0,56.0,,50.0,Jaboatão dos Guararapes,Piedade,145000.0
+1528,For sale,2.0,53.0,,0.0,Recife,Várzea,380900.0
+1529,For sale,2.0,59.0,,0.0,Paulista,Janga,125000.0
+1530,For sale,2.0,52.0,5.0,0.0,Olinda,Jardim Atlântico,234900.0
+1531,,,,,0.0,Recife,Recife,150.0
+1532,For sale,,42.0,,,Recife,Brejo de Beberibe,126000.0
+1533,,,999.0,,0.0,Cabo de Santo Agostinho,Ponte dos Carvalhos,600000.0
+1534,,,300.0,,0.0,Recife,Imbiribeira,5500.0
+1535,,,149.0,,,Recife,Boa Viagem,9685.0
+1536,,,200.0,,,Recife,Imbiribeira,5000.0
+1537,For sale,2.0,,,,Olinda,Alto da Conquista,140000.0
+1538,For sale,2.0,48.0,,,Recife,Boa Vista,369000.0
+1539,For sale,3.0,98.0,2.0,0.0,Recife,Boa Viagem,845000.0
+1540,For sale,4.0,107.0,3.0,800.0,Recife,Tamarineira,750000.0
+1541,For sale,,20.0,,20.0,Ipojuca,Porto de Galinhas,160000.0
+1542,,,729.0,,0.0,Recife,Pina,28000.0
+1543,For sale,2.0,91.0,,,Jaboatão dos Guararapes,Piedade,320000.0
+1544,For sale,4.0,150.0,2.0,0.0,Recife,Ipsep,550000.0
+1545,For sale,3.0,113.0,2.0,0.0,Cabo de Santo Agostinho,Paiva,1000000.0
+1546,For sale,2.0,73.0,,680.0,Recife,Boa Viagem,405000.0
+1547,For sale,2.0,85.0,,317.0,Recife,Pina,210000.0
+1548,For sale,,,,,Recife,Curado,130.0
+1549,For sale,2.0,50.0,,700.0,Recife,Santana,310000.0
+1550,,,600.0,,0.0,Camaragibe,Aldeia dos Camarás,230000.0
+1551,For sale,,36.0,,1.0,Jaboatão dos Guararapes,Barra de Jangada,300000.0
+1552,For sale,,31.0,,1.0,Jaboatão dos Guararapes,Piedade,290000.0
+1553,For sale,2.0,60.0,,0.0,Recife,Areias,130000.0
+1554,For rent,3.0,145.0,2.0,0.0,Recife,Encruzilhada,6500.0
+1555,For sale,2.0,49.0,,190.0,São Lourenço da Mata,Centro,70000.0
+1556,For sale,2.0,55.0,,0.0,Recife,Boa Viagem,339000.0
+1557,For rent,2.0,50.0,,0.0,Recife,Arruda,750.0
+1558,For sale,3.0,80.0,2.0,530.0,Recife,Boa Viagem,530000.0
+1559,For sale,3.0,96.0,4.0,,Paulista,Engenho Maranguape,140000.0
+1560,For sale,,47.0,,450.0,Recife,Parnamirim,200000.0
+1561,,,0.0,,500.0,Camaragibe,Aldeia dos Camarás,210000.0
+1562,For sale,4.0,302.0,3.0,0.0,Recife,Casa Forte,1650000.0
+1563,For sale,3.0,64.0,2.0,0.0,Recife,Rosarinho,350000.0
+1564,For sale,4.0,204.0,2.0,1250.0,Recife,Santana,1350000.0
+1565,For sale,4.0,136.0,2.0,1300.0,Recife,Casa Forte,980000.0
+1566,For sale,2.0,49.0,,0.0,Recife,Madalena,283000.0
+1567,For sale,3.0,110.0,2.0,1070.0,Recife,Boa Viagem,1100000.0
+1568,For sale,4.0,200.0,3.0,2000.0,Recife,Boa Viagem,1600000.0
+1569,For rent,4.0,170.0,,0.0,Recife,Boa Viagem,5700.0
+1570,For sale,3.0,79.0,,130.0,Recife,Afogados,240000.0
+1571,For rent,,25.0,,272.0,Recife,Ilha do Leite,1750.0
+1572,,,900.0,,0.0,Sairé,Povoado Insurreição,190000.0
+1573,For sale,4.0,360.0,4.0,3200.0,Recife,Boa Viagem,6500000.0
+1574,For sale,3.0,120.0,,,Recife,Estância,150000.0
+1575,For sale,4.0,150.0,2.0,0.0,Recife,Poço,1180000.0
+1576,,,2000.0,,,São Lourenço da Mata,Penedo,200000.0
+1577,For sale,2.0,54.0,,0.0,Recife,Tamarineira,380000.0
+1578,For rent,4.0,225.0,2.0,0.0,Olinda,Casa Caiada,5000.0
+1579,For sale,4.0,130.0,2.0,0.0,Recife,Ilha do Retiro,900000.0
+1580,For sale,3.0,60.0,,,Paulista,Janga,210000.0
+1581,For sale,3.0,83.0,2.0,590.0,Recife,Boa Viagem,510000.0
+1582,For rent,3.0,140.0,2.0,1300.0,Recife,Madalena,2500.0
+1583,For sale,3.0,60.0,,225.0,Jaboatão dos Guararapes,Candeias,145000.0
+1584,For sale,2.0,46.0,,,Jaboatão dos Guararapes,Piedade,190000.0
+1585,For sale,4.0,125.0,3.0,900.0,Recife,Boa Viagem,850000.0
+1586,For sale,2.0,89.0,,150.0,Olinda,Casa Caiada,145000.0
+1587,For rent,3.0,120.0,2.0,0.0,Recife,Pina,4500.0
+1588,For sale,5.0,330.0,4.0,0.0,Olinda,Bairro Novo,500000.0
+1589,For sale,2.0,64.0,2.0,498.0,Jaboatão dos Guararapes,Barra de Jangada,460000.0
+1590,For sale,4.0,218.0,3.0,2050.0,Jaboatão dos Guararapes,Piedade,1500000.0
+1591,For sale,3.0,70.0,2.0,0.0,Recife,Várzea,400000.0
+1592,For sale,4.0,135.0,2.0,1.0,Recife,Ilha do Retiro,897184.0
+1593,For sale,3.0,83.0,2.0,700.0,Recife,Pina,830000.0
+1594,For sale,3.0,92.0,2.0,0.0,Recife,Madalena,719000.0
+1595,For sale,3.0,91.0,,0.0,Recife,Boa Viagem,600000.0
+1596,For sale,4.0,234.0,3.0,1500.0,Recife,Casa Forte,1900000.0
+1597,For sale,4.0,114.0,2.0,0.0,Recife,Rosarinho,800000.0
+1598,For sale,2.0,46.0,,0.0,Recife,Boa Viagem,725568.0
+1599,For sale,2.0,63.0,,1.0,Recife,Boa Viagem,440000.0
+1600,For sale,2.0,110.0,2.0,850.0,Recife,Parnamirim,850000.0
+1601,For sale,2.0,54.0,,433.0,Recife,Espinheiro,414126.0
+1602,,,1500.0,,,Vitória de Santo Antão,Mário Bezerra,600000.0
+1603,For sale,3.0,70.0,,680.0,Recife,Boa Viagem,300000.0
+1604,For sale,3.0,152.0,2.0,1000.0,Recife,Boa Viagem,1470000.0
+1605,For sale,2.0,45.0,,,Paulista,Pau Amarelo,129990.0
+1606,,,40.0,,887.0,Recife,Ilha do Leite,215000.0
+1607,For sale,2.0,54.0,,0.0,Paulista,Nossa Senhora da Conceição,136000.0
+1608,For sale,4.0,350.0,3.0,3200.0,Recife,Boa Viagem,1299999.0
+1609,For sale,2.0,54.0,,0.0,Paulista,Nossa Senhora da Conceição,136000.0
+1610,For sale,4.0,350.0,3.0,3200.0,Recife,Boa Viagem,1299999.0
+1611,For sale,3.0,70.0,,,Paulista,Centro,205439.0
+1612,,,600.0,,0.0,Camaragibe,Aldeia dos Camarás,400000.0
+1613,For sale,3.0,89.0,2.0,0.0,Jaboatão dos Guararapes,Candeias,702000.0
+1614,For sale,3.0,93.0,2.0,0.0,Recife,Casa Amarela,599000.0
+1615,For sale,3.0,87.0,2.0,800.0,Recife,Poço,750000.0
+1616,For sale,4.0,162.0,3.0,0.0,Recife,Boa Viagem,1470208.0
+1617,For sale,3.0,117.0,,1170.0,Recife,Boa Viagem,420000.0
+1618,For sale,3.0,85.0,,800.0,Recife,Boa Viagem,270000.0
+1619,For sale,2.0,66.0,,,Jaboatão dos Guararapes,Candeias,310000.0
+1620,For sale,4.0,165.0,,500.0,Recife,Guabiraba,500000.0
+1621,,,36.0,,0.0,Recife,Ilha do Leite,1700.0
+1622,For sale,4.0,200.0,3.0,1100.0,Recife,Casa Forte,1600000.0
+1623,For rent,2.0,45.0,,0.0,Recife,Imbiribeira,1700.0
+1624,For rent,2.0,,,,Jaboatão dos Guararapes,Guararapes,700.0
+1625,For rent,4.0,380.0,3.0,2500.0,Recife,Boa Viagem,11500.0
+1626,For sale,3.0,54.0,,0.0,Paulista,Janga,165000.0
+1627,,,25.0,,1003.0,Recife,Boa Viagem,900.0
+1628,For sale,4.0,220.0,3.0,,Recife,Boa Viagem,2600000.0
+1629,For sale,3.0,123.0,,0.0,Recife,Boa Viagem,630000.0
+1630,For sale,3.0,120.0,,800.0,Recife,Boa Viagem,600000.0
+1631,For sale,4.0,409.0,2.0,0.0,Jaboatão dos Guararapes,Piedade,1900000.0
+1632,For sale,5.0,560.0,4.0,,Jaboatão dos Guararapes,Piedade,2800000.0
+1633,For rent,,50.0,,0.0,Recife,Boa Viagem,2500.0
+1634,For sale,3.0,113.0,2.0,850.0,Recife,Poço,680000.0
+1635,For sale,3.0,134.0,2.0,300.0,Recife,Casa Amarela,270000.0
+1636,,,425.0,,0.0,Cabo de Santo Agostinho,Paiva,739000.0
+1637,For sale,4.0,261.0,4.0,,Jaboatão dos Guararapes,Candeias,680000.0
+1638,For sale,3.0,335.0,,,Jaboatão dos Guararapes,Piedade,750000.0
+1639,For sale,4.0,202.0,2.0,1400.0,Jaboatão dos Guararapes,Piedade,800000.0
+1640,For rent,2.0,60.0,,389.0,Recife,Santo Amaro,1300.0
+1641,For sale,5.0,390.0,5.0,700.0,Camaragibe,Aldeia dos Camarás,0.0
+1642,For sale,2.0,50.0,,0.0,Recife,Iputinga,290000.0
+1643,For sale,3.0,61.0,,,Recife,Encruzilhada,430993.0
+1644,For sale,,38.0,,300.0,Jaboatão dos Guararapes,Barra de Jangada,237000.0
+1645,For sale,,33.0,,,Recife,Várzea,185000.0
+1646,For sale,,49.0,,,Recife,Madalena,264000.0
+1647,For rent,2.0,45.0,,0.0,São Lourenço da Mata,Pixete,800.0
+1648,For sale,,23.0,,0.0,Recife,Boa Viagem,208000.0
+1649,,,1152.0,,,Jaboatão dos Guararapes,Prazeres,20500.0
+1650,For sale,,44.0,,80.0,Paulista,Janga,80000.0
+1651,For sale,2.0,45.0,,200.0,Recife,Caxangá,227600.0
+1652,For sale,3.0,82.0,,650.0,Recife,Espinheiro,420000.0
+1653,For sale,,27.0,,,Recife,Boa Vista,197400.0
+1654,For sale,4.0,150.0,2.0,1100.0,Jaboatão dos Guararapes,Piedade,700000.0
+1655,For sale,2.0,53.0,,0.0,Olinda,Jardim Atlântico,245652.0
+1656,For sale,4.0,200.0,3.0,0.0,Recife,Boa Viagem,1100000.0
+1657,For sale,4.0,229.0,,,Recife,Torre,1750000.0
+1658,For sale,3.0,104.0,,800.0,Recife,Tamarineira,430000.0
+1659,For sale,4.0,203.0,3.0,0.0,Recife,Parnamirim,1600000.0
+1660,For sale,3.0,82.0,2.0,650.0,Recife,Tamarineira,500000.0
+1661,,,12974.0,,0.0,Camaragibe,Borralho,1050000.0
+1662,For sale,2.0,52.0,,245.0,Jaboatão dos Guararapes,Piedade,110000.0
+1663,For rent,2.0,63.0,,0.0,Recife,Boa Viagem,2600.0
+1664,For sale,2.0,45.0,,485.0,Recife,Parnamirim,565000.0
+1665,,,410.0,,372.0,Recife,Santo Amaro,480000.0
+1666,For rent,3.0,106.0,,0.0,Recife,Imbiribeira,1600.0
+1667,For sale,3.0,93.0,2.0,950.0,Jaboatão dos Guararapes,Candeias,460000.0
+1668,For sale,2.0,44.0,,0.0,Recife,Imbiribeira,329900.0
+1669,For sale,4.0,320.0,5.0,900.0,Camaragibe,Aldeia dos Camarás,1850008.0
+1670,For rent,2.0,60.0,,603.0,Recife,Pina,2549.0
+1671,For sale,3.0,89.0,2.0,,Recife,Rosarinho,665000.0
+1672,,,650.0,,0.0,Caruaru,Divinópolis,9500.0
+1673,For sale,2.0,57.0,,668.0,Olinda,Bairro Novo,400000.0
+1674,For sale,4.0,215.0,3.0,970.0,Caruaru,Maurício de Nassau,1300000.0
+1675,For rent,3.0,59.0,,0.0,Recife,Boa Viagem,2500.0
+1676,,,490.0,,,Jaboatão dos Guararapes,Curado,170000.0
+1677,For sale,,40.0,,0.0,Recife,Boa Viagem,330000.0
+1678,For rent,2.0,49.0,,0.0,Paulista,Centro,1000.0
+1679,For sale,2.0,,,0.0,Paulista,Artur Lundgren I,0.0
+1680,For sale,2.0,45.0,,0.0,Recife,Jardim São Paulo,226000.0
+1681,For sale,3.0,,3.0,,Recife,COHAB,150000.0
+1682,For sale,3.0,99.0,,250.0,Jaboatão dos Guararapes,Candeias,185000.0
+1683,For sale,3.0,100.0,2.0,0.0,Recife,Boa Viagem,780000.0
+1684,For sale,3.0,100.0,,450.0,Recife,Santo Amaro,370000.0
+1685,For sale,2.0,58.0,,0.0,Recife,Casa Amarela,436590.0
+1686,For sale,4.0,251.0,3.0,0.0,Cabo de Santo Agostinho,Paiva,3000000.0
+1687,For sale,5.0,320.0,2.0,2000.0,Recife,Tamarineira,1400000.0
+1688,For rent,2.0,60.0,,0.0,Jaboatão dos Guararapes,Piedade,2000.0
+1689,For sale,4.0,300.0,5.0,890.0,Camaragibe,Aldeia dos Camarás,1499900.0
+1690,For sale,4.0,639.0,5.0,0.0,Recife,Boa Viagem,3400000.0
+1691,For rent,3.0,66.0,,0.0,Jaboatão dos Guararapes,Barra de Jangada,2100.0
+1692,For sale,,40.0,,850.0,Recife,Boa Viagem,320000.0
+1693,For sale,2.0,58.0,,0.0,Recife,Casa Amarela,436590.0
+1694,For sale,4.0,251.0,3.0,0.0,Cabo de Santo Agostinho,Paiva,3000000.0
+1695,For sale,5.0,320.0,2.0,2000.0,Recife,Tamarineira,1400000.0
+1696,For rent,2.0,60.0,,0.0,Jaboatão dos Guararapes,Piedade,2000.0
+1697,For sale,4.0,300.0,5.0,890.0,Camaragibe,Aldeia dos Camarás,1499900.0
+1698,For sale,4.0,639.0,5.0,0.0,Recife,Boa Viagem,3400000.0
+1699,For rent,3.0,66.0,,0.0,Jaboatão dos Guararapes,Barra de Jangada,2100.0
+1700,For sale,,40.0,,850.0,Recife,Boa Viagem,320000.0
+1701,For sale,2.0,45.0,,0.0,Jaboatão dos Guararapes,Candeias,229900.0
+1702,For sale,2.0,,,,Paulista,Nossa Senhora do Ó,
+1703,For rent,4.0,149.0,2.0,0.0,Recife,Encruzilhada,6500.0
+1704,For sale,2.0,112.0,,,Jaboatão dos Guararapes,Barra de Jangada,245000.0
+1705,For sale,2.0,41.0,,0.0,Recife,Casa Amarela,322783.0
+1706,For sale,,33.0,,300.0,Jaboatão dos Guararapes,Barra de Jangada,210000.0
+1707,For sale,3.0,149.0,2.0,1.0,Recife,Monteiro,1250000.0
+1708,For sale,3.0,102.0,2.0,0.0,Recife,Encruzilhada,640000.0
+1709,For sale,2.0,52.0,,0.0,Recife,Várzea,273000.0
+1710,For sale,3.0,87.0,,0.0,Recife,Várzea,279000.0
+1711,For sale,3.0,93.0,,600.0,Jaboatão dos Guararapes,Candeias,250000.0
+1712,For sale,3.0,74.0,,200.0,Recife,Iputinga,175000.0
+1713,For sale,3.0,60.0,,460.0,Jaboatão dos Guararapes,Piedade,315000.0
+1714,For rent,3.0,119.0,,,Recife,Boa Viagem,3800.0
+1715,For sale,3.0,76.0,2.0,655.0,Recife,Espinheiro,550000.0
+1716,For sale,3.0,60.0,,400.0,Jaboatão dos Guararapes,Piedade,229500.0
+1717,For sale,3.0,102.0,2.0,0.0,Recife,Aflitos,700000.0
+1718,For rent,3.0,81.0,2.0,0.0,Recife,Boa Viagem,4200.0
+1719,For sale,3.0,97.0,2.0,800.0,Recife,Boa Viagem,699000.0
+1720,For sale,,32.0,,446.0,Recife,Boa Viagem,225000.0
+1721,For sale,2.0,54.0,,190.0,São Lourenço da Mata,Parque Capibaribe,130000.0
+1722,For sale,,28.0,,328.0,Recife,Aflitos,350000.0
+1723,For sale,5.0,10.0,2.0,0.0,Recife,Boa Viagem,1600000.0
+1724,For sale,3.0,66.0,,400.0,Jaboatão dos Guararapes,Barra de Jangada,400000.0
+1725,For sale,3.0,300.0,4.0,900.0,Gravatá,Ponto Alto,950000.0
+1726,For sale,3.0,106.0,2.0,0.0,Recife,Boa Viagem,730000.0
+1727,For rent,2.0,60.0,,,Olinda,Vila Popular,700.0
+1728,,,60.0,,0.0,Recife,Boa Viagem,3200.0
+1729,For sale,4.0,346.0,4.0,450.0,Gravatá,Alpes Suiços,1600000.0
+1730,For sale,3.0,306.0,,0.0,Gravatá,Nossa Senhora das Graças,190000.0
+1731,For sale,2.0,57.0,,268.0,Recife,Santo Amaro,458000.0
+1732,For rent,,35.0,,0.0,Recife,Boa Viagem,1850.0
+1733,For sale,4.0,270.0,4.0,890.0,Camaragibe,Aldeia dos Camarás,1349902.0
